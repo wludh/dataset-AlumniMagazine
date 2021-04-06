@@ -1,0 +1,3734 @@
+the alumni magazine of washington and lee university MARCH 1973
+
+A
+"
+
+es |
+.
+os
+
+i aaa. 2
+
+a
+
+       
+     
+
+7
+
+ny
+
+aa ee Sa
+
+re
+
+ 
+
+ 
+
+ 
+
+er 8
+
+.
+
+ie boc bvbebctbtttttrtttittttttittttsssseel
+
+es obo bebe eco bb be bbt be tttttttttteteseee LG
+
+ittee ec
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       
+
+   
+
+ 
+
+ 
+
+    
+
+ 
+
+      
+
+- an Oo - - - - a 7 OO - : : - : - : ; / ; : - /
+7 - - oe a -
+oe 24 a
+- a - - - - ’ - - -
+: - . - - :
+: / 7 - 7 . eo - -
+: : : ; - : v
+- - a > . - - 7 : /
+a . - : -
+- - - 7 a - - 7 . oo
+: 7 -
+: -
+- - - ;
+- 7 7 ; /
+7 - - ; / - -
+a : _ 7 : : i ;
+7 . - : _ Oo -
+: ; : : : oe - 5 : Oo Oo
+- . . - ; :
+: - a 7 toe De - : 7
+- >
+
+   
+  
+    
+
+     
+   
+  
+   
+ 
+   
+
+ 
+
+Sak e -
+St a 7
+
+a
+
+- -
+
+ 
+
+ 
+
+ 
+
+ 
+
+.
+
+  
+
+  
+ 
+
+ 
+
+ 
+
+a
+a
+a
+
+ 
+   
+
+ie te
+25;
+
+ 
+
+a
+
+  
+
+te
+
+     
+
+“
+ro, a
+a
+
+   
+
+f
+
+ 
+
+  
+ 
+
+De
+
+ 
+  
+  
+
+Computers at WoL
+
+ 
+
+theories of data structure, and tech-
+niques for analyzing data; and
+
+—They assist in practical instruc-
+tion, especially when the computer
+can be programmed to simulate a
+real-life situation and to provide
+logical responses to information fed
+into it.
+
+There is a multitude of other ap-
+plications of computers in our society
+—some that boggle the mind, others
+that are more mundane. ‘The recent
+surge of interest in small calculators
+which sell for less than $400 reflects
+another technological step toward
+making computers available to every
+person, for these calculators are in
+fact miniaturized computers.
+
+Of course, computers at Washing-
+ton and Lee are in no case used to
+replace the teacher; rather, computers
+augment the teacher’s effectiveness
+in the classroom. Generally, professors
+who require complex computations
+or who otherwise employ statistical
+analysis of data frequently use com-
+puters in class or laboratory.
+
+Obviously, some faculty have no
+apparent use for computers, while
+others find them indispensable in
+their daily work; one economics
+professor may teach general theory
+while another may teach the analysis
+of economic variables and their
+interrelationships. One mathematics
+professor may teach pure abstract
+algebra, while another may use the
+same abstractions to illustrate
+theories of computer structure.
+
+As theories advance in sophistica-
+tion, the physical sciences especially
+require computers at Washington
+and Lee to provide quick and accu-
+rate calculations for class, laboratory,
+
+2
+
+ 
+
+and research use. The social sciences
+also require the kind of analysis the
+computer can provide in order to
+answer a variety of questions about
+current and historical developments
+and the patterns they reflect. ‘The
+concepts of computer logic and
+operation are themselves a science
+which some members of the faculty
+actively pursue.
+The 1130
+
+The University’s general-purpose
+computer system, the IBM 1130, is
+
+ 
+
+ 
+
+used about half by academic depart-
+ments and half by administrative
+divisions. About 100 students a year
+take courses in computer program-
+ming; perhaps 200 students take other
+courses during each year in which
+computers are used in class.
+Advanced students are given the
+opportunity to learn operation of
+the computer, advanced programming
+languages, and computer design
+under the University’s independent
+study programs, without academic
+
+ 
+
+Prof. Robert B. Brownell aids student in planning program.
+
+WeL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Computers at WoL
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dr. Robert A. Roberts and students reflect on
+
+by providing physical convenience;
+with terminals nearby, students can
+process data while experiments are
+being conducted.
+
+Classes in economics, political
+science, mathematics, and the physical
+sciences use the “mini-computer”’
+regularly for class computation. In
+mathematics, for instance, classes in
+numerical analysis are able to
+implement theories they have de-
+veloped in class; they can investigate
+not merely the methods by which
+solutions are reached but also the
+validity of the data produced by the
+computer. Such knowledge of com-
+puter-generated error is essential in
+advanced applications (in spacecraft
+control, for example). Problems can
+in fact be posed in class, the answers
+
+ 
+
+to which no computer can determine
+
+4
+
+a problem in computer science.
+
+with very much accuracy—even
+
+while theory indicates that there are
+unique answers. The availability of
+the “‘time-shared” system is invaluable
+in this particular application, since
+
+it permits students to experiment
+with computations and to watch
+
+as theoretical results are verified.
+
+Some classes use the IBM 1130
+to consolidate information and then
+the ‘““mini-computer” to analyze
+selected portions of the data. ‘This
+flexibility improves the efficiency of
+computer usage and at the same time
+teaches students detailed analytical
+methods.
+
+The “mini-computer” is valuable
+also in personal research; it permits
+professors and students alike to
+investigate computer logic, structure,
+and design even while other academic
+
+ 
+
+ 
+
+or administrative work is being
+performed by the larger computer.
+The “mini-computer” will further
+serve as “interpreter” for the Min-
+uteman computers awarded the
+physics and chemistry departments
+as well.
+In short, computers are very much
+a part of the Washington and Lee
+educational process. It is estimated
+that between 30 and 50 per cent
+of the student body will employ
+one or another of the University’s
+computers during their undergradu-
+ate careers. Ihe computers make
+possible advanced research by stu-
+dents and faculty, and offer every
+student the opportunity to become
+familiar with the machines he will
+certainly encounter some day in
+the near future.
+
+WeL
+
+Nosecone computers:
+a bargain at $/1 each
+
+Washington and Lee’s newest comput-
+ers were almost thrown away by their
+original owner before they were used
+even a single time. The computers used
+to reside in the nosecones of two Minute-
+man missiles. But some time ago, the gov-
+ernment decided to replace that genera-
+tion of defense weaponry with some more
+sophisticated equipment, and very nearly
+dispatched the old stuff to the scrap pile.
+But each nosecone computer had cost
+more than a quarter of a million dollars
+in the beginning, and even the govern-
+ment had second thoughts about junking
+perfectly good equipment that had cost
+that much.
+
+So instead it gave it all away.
+
+The Defense Department first made
+very, very sure that the Minuteman pro-
+grams were completely erased from each
+computer’s memory, and then gave col-
+leges and universities the opportunity to
+haul them away. And so it was that the
+W&L physics and chemistry departments
+acquired two funny-shaped but important
+new additions to their computer facili-
+ties—for a mere $70.98, the cost of ship-
+ping them to Lexington from their old
+homes in missile silos.
+
+To be sure, the new machines are a bit
+slower than the University’s big IBM
+1130 computer — .000078 seconds per
+operation for the new ones, as against
+-0000032 seconds for the IBM (that’s
+four zeroes versus five). But even s0,
+Washington and Lee’s scientists think
+they got a bargain. The new computers
+will be exceptionally useful both in
+teaching and in research, according to
+Dr. Edward F. Turner, Jr., physics pro-
+fessor and department head.
+
+Having been originally designed to
+control a Spaceship, the computers are
+particularly well suited for controlling
+
+March, 1973
+
+and monitoring sophisticated laboratory
+instruments where absolute precision is
+essential, Dr. Turner points out. They
+will be valuable, for instance, in nuclear
+measurement and in measurement of
+energy impulses, he notes, and can be
+programmed to discriminate among vari-
+ous kinds of stimuli which occur both
+simultaneously and over an extended
+period of time. They can also perform
+the same functions as the big IBM —
+computation so complex that it cannot
+be done in any other way and sophisticat-
+ed data analysis.
+
+There remains one hitch, though: nose-
+cone computers don’t speak your usual
+computer language. Their “alphabet,” so
+to speak, has just eight characters, and
+they have to be talked to in their own
+peculiar way. So a Washington and Lee
+mathematics professor, Dr. Robert A.
+
+ 
+
+Roberts, is developing a special transla-
+tion program which will use another of
+the University’s computers. Operators
+will be able to write programs in a more
+commonly used computer language such
+as Fortran, with the regular computer
+then translating the instructions and
+data into nosecone-computer language.
+
+Nosecone computers require special
+power supplies too, of course, and an-
+other W&L math teacher, Dr. Robert B.
+Brownell, agreed to equip them with
+their own low-voltage, high-current DC
+And the physics and
+chemistry departments, with student as-
+sistance, are building keyboards and con-
+trol panels too.
+
+So they do indeed demand a lot of
+special treatment. But, the W&L scien-
+tists, agree it’s still not a bad deal for $71.
+
+—R.S.K.
+
+power sources.
+
+ 
+
+ 
+
+Dr, Edward F, Turner with Minuteman computer. (Above, detail of circuits).
+
+The W&L coat of arms
+a blend of heraldry
+
+Reprinted from a 1931 Alumni Magazine
+
+The first analytical study of Washington and Lee
+University’s coat-of-arms has just been completed. Mrs.
+D. H. Saunders, of Pine Bluff, Ark., long a student of
+heraldry, conducted the research and submitted the read-
+ing to the University.
+
+The coat-of-arms has been used by the University
+since 1902. Dr. William George Brown, professor of
+Chemistry in 1901, created the shield by quartering the
+Lee and Washington family arms. He used the Lee mot-
+to, of the Coton Hall branch—“Non incautus futuri’—
+(Not unmindful of the future), and the Washington
+crest—the figure of a bird.
+
+In her report, Mrs. Saunders quoted from Segoing,
+using old French, which is reprinted below. Her report
+follows:
+
+On the first quarter of the shield appears the Latin
+motto, “Omnia autem probate,’ which may be trans-
+lated, “Everything, but proved.”
+
+Heraldry is rather a fanciful, fantastic science; and
+the meaning of the metals and colors are rendered ac-
+cording to a quaint old French book, published in Paris
+in 1652; the author is C. Segoing.
+
+“C. Segoing.—Mercure armorial enseignment Les Prin-
+cipes et elemens du Blazon des armoiries, selon L’ordre
+et les termes qui se practiquent en cette Science.”
+
+P. 17 and 18 “Les Metaux et couleurs qui se voyent
+aux armoiries ont une signication et dentation particu-
+liere, que je mets icy pour contenter les cruieux.”
+
+Ist quarter: (one with the book) Learning and force.
+
+2nd quarter: (Washington) Sincerity, constancy, and
+deathless courage.
+
+3rd quarter: (Lee) Sagacity, forethought, and justice,
+loyalty and good reputation.
+
+4th quarter: (one with rose) Faith and wealth.
+
+Never lose sight of the military origin of heraldry.
+The very names “armory” and “escutcheon” and “‘coat-
+of-arms” should serve as a perpetual reminder.
+
+“Armory” of course, indicates the connection of
+heraldry with arms or weapons of war, “escutheon” and
+“coat-of-arms” are terms which arose from the fact that
+heraldic devices were stamped or painted upon the
+shields or “escusson” and embroidered upon the “‘cotte
+
+6
+
+d’armes,” a textile garment worn over the armor, in the
+fourteenth and fifteenth centuries. The term escutheon
+is from old French, escut, shield.
+
+The official Records of Courts-of-Arms are kept in
+written form, not in form of design, as is commonly sup-
+posed. The language is a sort of lingua-franca, moreover,
+many of the words are so abbreviated as to be quite un-
+intelligible to the lay mind.
+
+These records describe three things:
+
+(1) the color of the shield and its parts, if parted;
+
+(2) the name, number and colors of the devices on
+the shield, called charges;
+
+(3) the crest and its color.
+
+These are the three essential features. The motto, if
+there be one, is recorded, but mottoes are alterable at
+the will of the bearer, a fact not generally known.
+
+From the above it will be seen that the records do
+not specify the shape of the shield; hence it may be of
+any shape. That is entirely a matter of taste.
+
+There are two non-essential features of a complete
+escutheon called “accessories,” namely the helmet and
+the mantle (also called mantlings, or lambrequin).
+Though not strictly necessary, these add greatly to the
+dignity and beauty of a painting. The origin of the man-
+tle was the lined cloak worn by knights to keep off the
+weather; it hung from the helmet. It is the mantle which
+permits the beauty and grace of the coat-of-arms to be
+brought out, and it should be of the prevaling color and
+metal of the shield. |
+
+The true star of heraldry (estoile) has six wavy points,
+Mullets, or stars of five points, signify shining virtue;
+some authorities say the mullet is a knight’s spur, but
+unfortunately it was used before the invention of spur-
+rowels, and so is of uncertain origin. The mullet is also
+used as a mark of distinction for cadency (descent or re-
+lated families or younger son); the label is for the eldest
+son, the crescent for the second son, and the mullet for
+the third son.
+
+The border (the ermine on the fourth quarter) is an
+augmentation of honor.
+
+The billet (Lee arms) is a small parallelogram us-
+ually borne in numbers and set up on end; where there
+are several, the armorial is described as “billetty’ (bil-
+lette). The billet is one of a number of “sub-ordinate
+
+WeL
+
+
+Campus News
+
+ 
+
+ODK-Lee’s Birthday Convocation:
+a day of honors and memories
+
+Washington and Lee combined its
+Lee’s Birthday Convocation this year with
+the annual Omicron Delta Kappa “tap-
+ping” ceremonies, and by common consent
+it was “a very nice day.”
+
+Charles R. McDowell, Jr., columnist
+and Washington correspondent for the
+Richmond Times-Dispatch and a 1948
+W&L graduate, was the speaker, bringing
+his audience reminiscences of his life as
+a boy in Lexington and a cogent analysis
+of the 1972 national election.
+
+Three noted Washington and Lee
+alumni and a leader among W&L par-
+ents were initiated into honorary mem-
+bership in ODK. Also “tapped” were five
+law students and 15 undergraduates. ODK
+is the national
+founded at Washington and Lee in 1914.
+
+leadership fraternity
+It now has chapters on more than 100
+campuses.
+
+McDowell is a son of Mrs. Catherine
+McDowell of Lexington, secretary of the
+W&L School of Law, and the late Prof.
+Charles McDowell, Sr., who taught law
+at W&L for 42 years until his death in
+1968. The younger McDowell was “tap-
+ped” into ODK while a student at the
+University. He is the author of three
+books and has had a distinguished ca-
+reer in journalism.
+
+The alumni honored were:
+
+William B. Hopkins of Roanoke, ’42,
+majority leader of the Virginia State Sen-
+ate, lawyer, a leader of the moderate
+Democratic forces in Virginia, and a
+former Democratic National Committee-
+man;
+
+Dr. Harry Lyons of Richmond, ’22, who
+was dean of the Medical College of Vir-
+ginia School of Dentistry from 1951 until
+his retirement in 1970 and a past presi-
+dent of the American Dental Association,
+the American College of Dentists, and
+
+8
+
+Sen. William B. Hopkins
+
+ 
+
+Richard H. Turrell
+
+the Virginia State Dental Association;
+
+Richard H. Turrell of Short Hills, N. J.,
+'49, senior vice president and treasurer of
+New York Fiduciary Trust Co., director
+of Lehigh Portland Cement Co., director
+and treasurer Simons-Rock Co., past presi-
+dent of the Washington and Lee Alumni
+Association and of the Robert E. Lee As-
+sociates, a group of dedicated W&L sup-
+porters.
+
+Also honored was Richard T. Scruggs
+of Birmingham, a past president of the
+
+ 
+
+ 
+
+Richard T. Scruggs
+
+Washington and Lee Parents’ Council,
+president of Vulcan Metals Products Co.
+and vice president of Alabama Metal Co.
+and Southern Culvert Co. His son, Rich-
+ard, Jr., was graduated from W&L in
+1970.
+
+McDowell discussed the predicaments
+the national political parties find them-
+selves in now that the election is over.
+He made two points: First, that the De-
+mocrats rose above their own constitu-
+ency and in so doing abandoned to the
+
+Wel
+
+Republicans crucial elements of the coali-
+tion they had put together under Frank-
+lin Roosevelt in the 1930’s; and second,
+that although the Republicans won one
+of the three greatest landslides in history
+they emerged from the election weaker
+as a party than when they went in.
+
+The main lesson to be gained by the
+Democrats from the 1972 election, he
+said, is that they must learn again about
+coalition. The party cannot make it on
+“elite liberalism.” The Republicans’ main
+problem, he said, was their minority
+Status as a party. He suggested this is be-
+cause the GOP is “still mainly against
+
+things.”
+McDowell reminded the leaders and
+future leaders in the audience that
+
+“there’s a lot of injustice in the world
+that needs fixing, a lot of the world’s
+natural endowment that needs saving
+fast, plenty of maintenance and repair on
+the political system that needs doing in
+both parties.
+
+“Leaders of principle really are pre-
+ferred. They have a better chance in
+politics than most people seem to ima-
+gine. But there must be more than prin-
+ciple.
+
+“You must be reasonable enough to re-
+assure us that you are not a fool, com-
+passionate enough to understand not just
+our troubles but our prejudices, hopeful
+enough to try to lift us out of our pre-
+judices and self-interest by appealing to
+the best in us, by showing what we can
+do together.
+
+“We know in our hearts that the main
+thing we need is each other.”
+
+Current students who were elected to
+membership in ODK were:
+
+School of Law—Thomas A. Gosse, John
+M. Mason and Bruce L. Phillips, all of
+Lexington; Frederick W. Batten of
+
+March, 1973
+
+h-
+Charles McDowell and Cap’n Dick Smith, old
+
+Grosse Point Farms, Mich., and Morris
+KE. Flater of Augusta, Ga.
+
+Undergraduate seniors—Marshall P.
+Washburn of Lexington; G. Archer Frier-
+son of Shreveport, La.; Richard H. Gra-
+ham of Lutherville, Md.; W. Patrick
+Hinely of Jacksonville, Fla.; Craig B.
+Jones of Roswell, Ga.; Kurt M. Krum-
+perman of Philadelphia; D. Mark Mc-
+Minn of Columbia, Tenn.; Scott E. Rick-
+off of Pensacola, Fla.; Ralph H. Smith of
+Birmingham; J. Griffith Steel of Chapel
+Hill, N.C., and Thomas G. VanAmburgh
+of Dallas.
+
+Undergraduate juniors—Stephen J.
+Greene of Martinsville, Va.; Lewis F.
+Powell III of Richmond; Carl R. Fletcher
+of Atlanta, and Floyd W. Lewis of New
+Orleans.
+
+baseball buddies.
+
+ 
+
+ 
+
+Life’s ‘Great’ Moments
+
+ 
+
+Charlie McDowell tells this grand story.
+Only he can truly tell it as he did at the
+Founders’ Day-ODK Convocation. But it
+is too good not to try to share it with a
+larger audience. So with apologies to
+Charlie and the reader, here it is:
+
+Charlie grew up in Lexington, and
+when he was about 10 years old he was
+the batboy for the W&L baseball team,
+then coached by Charlie’s childhood idol,
+Cap’n Dick Smith.
+
+W&L was playing the University of
+Michigan in an early spring game. Charlie
+shared the batboy duties with another
+boy. He had finished working the first
+half of the game and was walking behind
+
+9
+
+Campus News
+
+ 
+
+homeplate as near the distant backstop
+as he could get, admiring a slightly bro-
+ken bat he had received for his work.
+W&L was in bat. The score was tied.
+
+Suddenly a loose ball came whizzing up
+to Charlie. Charlie picked it up. The
+huge Michigan catcher came charging
+down on Charlie. Charlie tossed him the
+ball. The Michigan catcher turned and
+threw out a W&L runner, who had made
+the turn at first base. What had happen-
+ed was that the W&L batter had struck
+out. The catcher had missed the ball.
+The W&L runner had run to first and
+was headed for second. Charlie’s assist to
+the catcher had enabled Michigan to
+pick off W&L’s potential winning runner.
+
+Cap’n Dick rushed to homeplate. ‘The
+Michigan coach rushed to homeplate. A
+terrible argument ensued. And _ there
+stood 10-year-old Charlie terrified. ‘The
+question seemed to be whether Charlie
+was a “natural hazard” or “something
+that killed the ball when he touched it,”
+the theory Cap’n Dick advanced. The
+Michigan coach, pulled out a rule book
+and cited “a long tortuous passage” about
+‘‘a member of the dugout.” If Charlie was
+a member of the dugout, the Michigan
+coach argued, then the W&L runner was
+out.
+
+Cap’n Dick objected to such a “strange
+interpretation” of the rules. Charlie says
+he will never forget what happened next
+as long as he lives.
+
+The exasperated Michigan Coach said:
+“Aw, come on, Dick, the kid’s your bat-
+boy.”
+
+And Cap’n Dick, Charlie’s lifelong
+friend and hero, replied: “I never saw
+the little s.o.b. before in my life!”
+
+(Cap’n Dick says he remembers that he
+won the argument, but he is not sure
+who finally won the game.)
+
+10
+
+Dr. Charles F. Phillips in his book-lined office.
+
+ 
+
+Nixon Picks Phillips
+
+ 
+
+Dr. Charles F. Phillips Jr., professor
+of economics at Washington and Lee,
+was named by President Nixon in Decem-
+ber to a White House commission to
+evaluate the nation’s policies on gam-
+bling.
+
+The commission is similar to one in
+Virginia to which Dr. Phillips was ap-
+pointed in 1971 by Gov. Linwood Hol-
+ton, 42. Last year that commission voted,
+with Dr. Phillips in the majority, to re-
+commend that on-track betting be leg-
+alized under close state supervision.
+
+Dr. Phillips is one of seven public
+members of the new White House Com-
+mission. House and Senate leaders will
+appoint eight additional members to the
+group. Its report is due in four years.
+
+A native of Geneva, N. Y., Phillips
+earned the B.A. degree cum laude from
+
+ 
+
+the University of New Hampshire and
+the Ph.D. from Harvard University. He
+was named to the Washington and Lee
+faculty in 1959 and in 1966 became one
+of the youngest men to be named full
+professor at the University.
+
+In addition to a full teaching schedule
+—his fields of academic specialization are
+basic economic principles, government
+and business, regulated industries, and
+business and society—he is a consultant
+to many of the nation’s leading utilities
+and other industries whose relations with
+Washington are particularly complex.
+Currently he is retained by American
+the New
+York Stock Exchange, Virginia Electric
+and Power, the Chesapeake and Poto-
+mac Telephone Co., the banking markets
+section of the Federal Reserve System,
+
+Telephone and Telegraph,
+
+and eight other major industrial cor-
+porations.
+Dr. Phillips is the author of The
+
+WeL
+
+it
+
+says
+
+ 
+
+ 
+
+ty
+
+.
+
+of
+
+niversi
+the
+
+x
+
+oa
+o
+43
+as
+z
+
+e
+
+omics
+
+on
+
+ 
+
+ 
+
+Campus News
+
+ 
+
+Washington and Lee professors. The set
+—New Orleans, approximately 25 years
+ago — was designed and constructed un-
+der the supervision of O. K. Barnes,
+drama instructor at the University.
+
+Lee Kahn, assistant drama _ professor
+and director of the University Theatre
+(formerly known as the Troubadour
+Theatre), says he chose Williams’ 1947
+play partly for the challenge his actors
+face in overcoming the Marlon Brando
+stereotype.
+
+ 
+
+Met Opera Broadcasts
+
+WLUR-FM, the University’s radio sta-
+tion, is carrying the full schedule of live
+opera broadcasts from the Met in New
+
+ 
+
+York again this winter and spring.
+
+The season began Dec. 9 with a broad-
+of Verdi's Otello. Operas are
+broadcast each Saturday afternoon, and
+the season continues through April 21.
+
+WLUR broadcasts seven days a week
+at 91.5 (FM). The station is a unit of
+W&L’s journalism and communication’s
+
+cast
+
+department.
+
+ 
+
+Rugel Fund Increased
+
+ 
+
+Recently Jon Raymond Rugel’s mother
+and stepfather, Mr. and Mrs. Harry Niel-
+sen of Midland, Tex., made a sizeable
+addition to the Jon Rugel Memorial
+Fund, bringing the value of the fund to
+nearly $16,000.
+
+Jon Rugel graduated from W&L in
+1948. As a student, he made an outstand-
+ing record in campus leadership and in
+scholarship. He was president of the In-
+ternational Relations Club, secretary of
+Phi Eta Sigma, a dormitory counselor,
+and a member of the Student Body Exe-
+cutive Committee. He was a member of
+
+12
+
+ 
+
+Jon Rugel
+
+Kappa Sigma, Phi Beta Kappa, and
+Omicron Delta Kappa.
+
+After graduation, Jon was an honor
+student at the School of Advanced Inter-
+national Studies in Washington, D. C., a
+branch of Johns Hopkins University. In
+1951, he went abroad as a representative
+of the American Export Lines and was
+stationed in Genoa, Italy. On his way
+home for his first vacation, he died aboard
+ship on Nov. 27, 1953.
+
+Members of Jon’s family and a number
+of friends established a scholarship in his
+memory to help worthy young men at-
+tend Washington and Lee.
+
+ 
+
+Speakers’ Program Begun
+
+ 
+
+The debate team at Washington and
+Lee has established a speaker’s program
+under which members will deliver talks
+or full debates before civic clubs and
+
+other organizations.
+
+Two of the talks are given by M. An-
+derson Bradshaw, a senior from Norge,
+Va., one on the controversial question of
+the safety of blood transfusions, the other
+a lively and informative recollection of
+his experiences at Boys’ State both as a
+participant and later as a counselor.
+
+In addition, Washington and Lee’s de-
+bate team can be booked to argue both
+sides of the standard debate topic for
+nationwide competition this year: wheth-
+er America needs socialized medical care.
+
+There is no charge for talks or de-
+bates booked through the new program
+other than travel expenses. Dr. Halford
+R. Ryan, assistant professor of English,
+and coach of the debate team, suggests
+that bookings be made at least a month
+in advance. Inquiries may be directed to
+him by phone or mail at W&L.
+
+Meanwhile, the debate team brought
+home two more trophies from the annual
+Virginia Forensic Association ‘Tourna-
+ment at William and Mary, in which
+teams from nine institutions participat-
+ed. The
+place wins in the novice team and indivi-
+dual speaker categories.
+
+trophies represented second-
+
+ 
+
+Tales of Ole Lexington
+
+ 
+
+Dr. Charles W. Turner, professor of
+history, is the editor of a book of local
+reminiscences, Mrs. McCulloch’s Stories
+of Ole Lexington, published in Decem-
+ber by McClure Press.
+
+The book, already a bestseller in Rock-
+bridge County, is the result of a Robert
+E. Lee Research project in oral history.
+Working with Dr. Turner was Daniel S.
+Shapiro of Richmond, a 1971 cum laude
+graduate.
+
+With the assistance of two current
+
+Wel
+
+W&L students—Rolf Piranian, a junior
+from Oreland, Pa., and John F. Zink, a
+sophomore from Louisville—Dr. Turner
+transcribed and edited the tapes of Mrs.
+McCulloch’s conversations into 37 vig-
+nettes.
+
+In his preface, Dr. Turner notes that
+he was aided by Dr. Sidney M. B. Coull-
+ing, professor of English, in matters of
+style.
+
+Mrs. McCulloch, who died July 7, 1971,
+at the age of 94, was born Ruth Ander-
+son, the daughter of Mr. and Mrs. Wil-
+liam A. Anderson of Lexington. Her
+father was a member of Washington and
+Lee’s Board of Trustees for 45 years un-
+til his death in 1930, and was Rector of
+the Board from 1914. He was Attorney-
+General of Virginia from 1902 until 1910
+
+ 
+
+March, 1973
+
+Dr. Charles W. Turner with copy of Mrs. McCulloch’s Stories of Ole Lexington.
+
+and also served in the state Senate and as
+a delegate to the 1901-02 Constitutional
+Convention.
+
+The Lexington chapter of the Associa-
+tion for the Preservation of Virginia An-
+tiquities is named for Mrs. McCulloch,
+who was extremely active in historical or-
+ganizations in the Rockbridge area.
+
+The book is available to alumni at a
+discount through the W&L_ Bookstore
+($4.05 plus postage and sales tax).
+
+Dr. Turner, well known in the fields
+of Civil War and frontier history, is the
+author of two earlier books, Chessie’s
+Road, a history of the Chesapeake and
+Ohio Railroad, and Mississippi West, a
+textbook. He has also written a large
+number of scholarly and general articles
+in American history.
+
+A member of Washington and Lee’s
+faculty since 1946, he holds degrees from
+the Universities of Richmond and Minne-
+sota. He has been president, board mem-
+ber and librarian of the Rockbridge His-
+torical Society and editor of its Proceed-
+ings.
+
+ 
+
+Riegel Book Reissued
+
+ 
+
+ 
+
+A major book on propaganda written
+in 1934 by O. W. Riegel, professor of
+journalism, has been reissued as part of
+an important new series on international
+communications. He is also the author
+of a review article in the first issue of a
+new magazine, Film Critic.
+
+The book, Mobilizing for Chaos: The
+New Propaganda, is part of the new 31-
+volume series just published by Arno
+Press, a subsidiary of the New York
+Times. Original publisher of the book
+was the Yale University Press. In the
+book, Prof. Riegel first developed the
+thesis that the media throughout the
+world were gravely endangered by na-
+tionalistic governments and big business,
+which seemed to be increasing their in-
+fluence and control over communica-
+tions.
+
+Prof. “Berlin: The
+Three-Headed Bear,’ comments on more
+
+Riegel’s article,
+
+than a dozen motion pictures screened at
+the 1972 Berlin Film Festival. He cus-
+tomarily attends such international cine-
+ma competitions in Europe and America.
+
+Film Critic, the new magazine in which
+the article appears, is a publication of
+the American Federation of Film Socie-
+ties, of which Prof. Riegel is a director.
+
+A member of the journalism faculty
+since 1930, Prof. Riegel is an authority
+in international communications, especi-
+ally propaganda and cinematic arts.
+
+13
+
+Athletics
+
+McHenry is head football coach;
+
+Leslie to direct the offense
+
+Athletic Director William D. (Bill)
+McHenry has become head football coach
+at Washington and Lee, succeeding E.
+Graham (Buck) Leslie, who remains on
+the coaching staff as offensive coordina-
+tor.
+
+The change took place in January,
+when Leslie asked to be relieved of the
+head coach’s responsibilities and to be
+reassigned in the department. He said in
+a letter to President Robert E. R. Hunt-
+ley that he had reached his decision “as
+a result of long and careful considera-
+tion.”
+
+President Huntley appointed McHenry
+to the post, and McHenry’s first action
+was to ask Leslie to become offensive co-
+ordinator and be in charge of the Gen-
+erals’ offensive backs.
+
+“Some of Washington and Lee’s great-
+est seasons were recorded when Buck
+was in charge of our offense under the
+late Lee McLaughlin,” McHenry said. “I
+am happy that he will be helping me in
+this same capacity.”
+
+President Huntley said he was pleased
+with the arrangement, adding: “Wash-
+ington and Lee is fortunate to be able to
+replace Coach Leslie promptly with a
+man of Coach McHenry’s demonstrated
+ability and experience, and I am happy
+that he has agreed to accept this addi-
+tional responsibility. We are grateful to
+be able to retain Coach Leslie in a capa-
+city in which he has served so splendidly
+in the past.”
+
+McHenry, 40, an outstanding football
+and lacrosse player at Washington and
+Lee in 1950-54, was athletic director and
+head football coach for 10 years at Leb-
+anon Valley College before becoming the
+Generals’ athletic director in June, 1971.
+His football teams at Lebanon Valley
+compiled a 44-34-1 record, and he won
+
+14
+
+Buck Leslie and Bill McHenry take on new football assignments.
+
+ 
+
+one Middle Atlantic Conference Cham-
+pionship and tied for another. McHenry
+previously coached at Pennsylvania Mili-
+tary College and Williams College.
+
+Leslie, 47, also a Washington and Lee
+alumnus, joined the Generals’ football
+staff in 1959 at a time when W&L had
+won only two games in four seasons. With
+Coach McLaughlin, he developed a po-
+tent offense that brought the Generals’
+successive seasons of 3-4-1, 8-0-1,
+9-0, 8-1, and 5-3 over the next five years.
+
+When McLaughlin died in an accident
+in mid-August, 1968, Leslie took on the
+difficult assignment. of directing the team
+as acting head coach that year. Early in
+1969, he was named head coach. His
+overall record for the past five seasons
+was 16-28-1.
+
+His 1971 team finished strongly, win-
+ning four of its last five games, including
+an upset victory over a highly successful
+Coast Guard Academy team. With a vet-
+eran team returning for 1972, expecta-
+tions were high for the Generals’ first
+winning season since 1967. After an im-
+pressive opening victory that snapped
+Westminster College’s 22-game winning
+streak, the Generals were able to muster
+only two wins among their remaining
+eight games.
+
+Washington and Lee’s new head coach,
+McHenry, was an outstanding center on
+the last of the Generals’ football teams
+to compete in the NCAA’s major univer-
+sity division, prior to the University’s
+1954 decision to abandon athletic grants-
+in-aid and to compete at the college divi-
+sion level. McHenry played in the 1953
+Blue-Gray Game and the 1954 College
+All-Star Game against the Detroit Lions.
+He was a sixth-round draft choice of
+the Washington Redskins, and played
+two years of service football at Ft. Jack-
+
+March, 1973
+
+son, S.C., before entering the coaching
+profession.
+
+McHenry is a native of Swarthmore,
+Pa., and holds a master’s degree in educa-
+tion from the University of Pennsylvania
+in addition to the BS.
+from Washington and Lee.
+
+in commerce
+
+Leslie played quarterback for Lexing-
+ton High School, and after World War II
+service passed up college football at
+Washington and Lee to concentrate on
+outstanding ability as a baseball pitcher.
+He graduated in 1949 with a B.A. in po-
+litical science, and immediately embarked
+on a distinctive coaching career at Na-
+tural Bridge High School, where his foot-
+ball teams won 65 games while losing
+only 26.
+
+ 
+
+‘Coach of Year Emmer
+
+ 
+
+For the second year in a row, Washing-
+ton and Lee University’s lacrosse coach
+has been named national ‘Coach of the
+Year.” But for John S. (Jack) Emmer,
+the honor was awarded for his accom-
+plishments last year at Cortland State
+University in New York.
+
+Emmer was named 1972 ‘Coach of the
+Year’ for the college division in Decem-
+ber during the annual awards banquet
+of the U. S. Intercollegiate Lacrosse As-
+sociation at Albany, N. Y. Last year,
+while at Cortland, Emmer coached the
+Red Dragons to a 14-2 record, including
+victories over major powers Army, Navy,
+and Cornell, and to the semi-finals of the
+NCAA national championship _tourna-
+Cortland ranked No. 1 in the
+college division for the second straight
+year.
+
+ment.
+
+In August, Emmer was named head la-
+crosse and assistant football coach at
+Washington and Lee, succeeding Richard
+
+ 
+
+Lacrosse Coach of the Year Jack Emmer.
+
+E. (Dick) Szlasa, the 1971 national
+“Coach of the Year” who resigned to ac-
+cept the head lacrosse coaching position
+at Navy.
+
+At Washington and Lee, Emmer in-
+herits a top-ranked team which is expect-
+ed to have another successful season this
+spring. Last year, under Coach Szlasa,
+the Generals won the South Atlantic
+Division Championship en route to a 12-
+3 record, and reached the quarterfinals
+of the NCAA national tournament.
+
+15
+
+Mar.
+
+Mar.
+
+Mar.
+
+April
+April
+April
+April
+April
+April
+April
+April
+April
+April
+April
+April
+April
+May
+
+May
+
+May
+
+Mar.
+Mar.
+April
+April
+April
+April
+April
+April
+April
+April
+May
+May
+May
+May
+
+April
+April
+April
+April
+April
+April
+April
+April
+April
+April
+April
+
+16
+
+Spring events
+
+1973 BASEBALL SCHEDULE
+
+17—Apprentice (2) ou... Home
+r, 20—Hampden-Sydney  .............+ Away
+24—William & Mary (2) «0... Away
+26—Muhlenberg ................. ee Home
+4—Southern Conn. .........0...00 Home
+6—Valdosta State 0.0.0.0... Away
+7—Valdosta State .........ce Away
+9—Eckerd College ...........:- Away
+10—Eckerd College ..............008. Away
+11—Fla. Inst. of Tech ..........0.... Away
+12—Fla. Inst. of Tech ................ Away
+18—Oneonta State... Home
+19—Madison oo... eee Home
+23—Hampden-Sydney .................. Home
+26—Lynchburg ee Away
+27-28—VCAA Playoffs ..........0.0.0. Home
+29—Old Dominion (2) ............ Home
+4—Bridgewater (2)... Away
+GWE ieee Home
+Wed 2-+-GAC oe ae Home
+1973 LACROSSE SCHEDULE
+
+10—Morgan State .......... ee Home
+
+99.95—Hero’s Tournament ... Baltimore
+
+PIROANOKE 5... rs ve Away
+10=Princeton © ........6.00... ees Away
+12—C. W. Post ......... Rn ee Away
+14—Trowson ooo. Away
+TB——DOke co il eG dee Home
+21—Washington College ................ Away
+24—North Carolina ..........0.......8. Away
+28—William and Mary ................ Home
+
+2—Franklin and Marshall ......... Away
+5—Baltimore University ............ Home
+9—Randolph-Macon _................... Home
+13—Virginia oon. Home
+1973 TENNIS SCHEDULE
+17—Morris Harvey... V.M.I.
+5—Campbell oo... Away
+6—Harvard oo... Davidson
+
+T—Davidson oo...iccccecccccccccessetetteeee Away
+
+9—South Carolina ...................5. Away
+LO—EMOTLY 000. Away
+L1—Eckerd ou......ccccccececceteeeeeeee: Away
+13—Florida Southern .................... Away
+L6—VMLI. ooo ccc ceeetteeeeeees Home
+17—Bridgewater oo... Home
+18—Hampden-Sydney ...............5 Home
+20—Hampton Institute .................. Away
+
+at
+Wa&L
+
+March 7, 8, 9
+
+—Glasgow Endowment Program: ‘““The Woman of Letters
+
+in the Modern World.” Participants include Mary Mc-
+Carthy, author; Penelope Gilliatt, film critic and author;
+Barbara Deming, author; Carolyn Kizer, poet; Denise
+
+—Convocation, Phi Beta Kappa/Society of Cincinnati.
+
+Speaker: Dr. Edgar F. Shannon, W&L ’39, retiring presi-
+
+—Anniversary Spring Reunions. Academic and Law Classes
+
+CAC Spring Sport Tournament in tennis, golf, track,
+
+Levertov, poet.
+March 22
+dent, University of Virginia.
+March 29-April 4—Winter term final examinations—Undergraduate.
+April 4-April 16—Undergraduate Spring vacation.
+April 6-April 16—Law School Spring vacation.
+May 11, 12, 13
+of 1923, 1933, 1948, 1958, 1963, and the Old Guard.
+Annual meeting of Alumni Association.
+Law Day and John Randolph ‘Tucker Lecture.
+Moot Court Competition.
+baseball.
+Lacrosse: W&L vs. University of Virginia.
+
+—Undergraduate Spring term examinations.
+
+May 21-29 —Law School final examinations.
+May 26-28
+
+May 30 —Baccalaureate Service.
+
+May 31 —ROTC Commissioning Ceremonies.
+
+Commencement.
+
+April 21—Old Dominion... Away
+April 24—Virgimia oe Homestead
+sole jedaon sbneh GG ae Home
+
+April 26—V.P.I.
+April 27-29—VCAA ‘Tournament
+Harrisonburg, Va.
+
+May 1—E. Mennonite ........:ccee Away
+May 2—Roanoke  ........ cee Home
+May 4—Navy occ Away
+May 5—TOWSON oo... Away
+May 8—Hampden-Sydney .............-. Away
+May 9-—Emory and Henry .............-.- Home
+May 11-12—CAC ‘Tournament ............. Home
+1973 TRACK SCHEDULE
+Mar. 20—Shepherd  .........: cee Home
+Mar. 22—Madison  .........:::ccceeee Home
+Mar. 26—Frostburg State ..............) Home
+April 11—Bridgewater ..........e Away
+April 14—Roanoke oo... Away
+
+April 17—Lynchburg oo... Away
+PE geri ie eee Away
+April 24—State Meet ........0 ee Away
+May 1—Hampden-Sydney .................... Home
+May 8—E. Mennonite ...........0.. Home
+May tht GA ii ics. Home
+1973 GOLF SCHEDULE
+Mar. 23—Lynchburg College ............... Away
+April 19—Bridgewater ......... Away
+April 23—VCAA Tournament .......... Roanoke
+April 24—Madison & Virginia ................ Home
+April 26—Roanoke College, Clinch U.,
+Hampden-Sydney ............ Roanoke
+
+April 30—State Intercollegiate
+‘Tournament
+
+May 2—Old Dominion .........0.00000.... Home
+May 5—Shepherd College .................... Away
+May 11-12—CAC Golf Tournament ... Home
+
+WeL
+
+Alumni committee is named
+to choose trustee candidates
+
+In 1969, Washington and Lee University authorized
+the nomination of an alumnus to the University Board
+of ‘Trustees. The procedure, established by the Alumni
+Association and approved by the University Trustees,
+provided for a selection process every two years. The
+alumni nominee is to serve a six-year term, and the pro-
+cedure incorporates a balloting of the full alumni mem-
+bership to vote on one of three nominees.
+
+The year 1973 represents the third time the Associa-
+tion has undergone this procedure. ‘The two members of
+the University Board of ‘Trustees now serving and who
+were selected under this process are E. Marshall Nuckols,
+Jr., °33 BA, ’35 LLB, and E. Waller Dudley, ’43 BA, ’47
+LLB.
+
+By action of the Alumni Board of Directors, in their
+meeting of October, 1972, the president of the Alumni
+Association appointed a nominating committee of not
+more than nine men to assist in developing the nominee
+candidates who are to be considered by the Alumni
+Board of Directors for places on the ballot. Balloting is
+to take place by special mailing in July, 1973. Alumni
+are encouraged to submit to members of this nominating
+committee suggested names of outstanding alumni for
+consideration.
+
+‘Those alumni named by the president to the Nomi-
+nating Committee are as follows:
+
+Mr. Cyrus V. Anderson
+(Chairman)
+
+PPG Industries, Inc.
+One Gateway Center
+Pittsburgh, Pa. 15222
+
+Mr. Gordon Gooch
+Baker & Botts
+
+One Shell Plaza
+Houston, Tex. 77002
+
+Mr. Samuel B. Hollis
+
+Federal Compress and
+Warehouse Co.
+
+Box 77
+
+Memphis, ‘Tenn. 38101
+
+Mr. W. H. Keland
+P.O. Box 622
+Racine, Wis. 53401
+
+March, 1973
+
+Mr. J. Thomas Touchton
+
+Suite 2110 Exchange
+National Bank Bldg.
+
+610 Florida Ave.
+
+Tampa, Fla. 33602
+
+Mr. Robert Van Buren
+1096 Oakland Ave.
+Plainfield, N.J. 07060
+Mr. Jack Watson
+
+300 Lakeside Dr.
+Oakland, Calif. 94604
+
+Mr. Richard C. Whiteford
+305 W. Pennsylvania Ave.
+‘Towson, Md. 21204
+
+ 
+
+ 
+
+A Boost for Student Financial Aid
+
+ 
+
+ 
+
+Director of Student Financial Aid Bill Mules and Alumni Secre-
+tary Bill Washburn admire a Washington and Lee Chair, the sale
+of which by the Alumni Association has produced thousands of
+dollars to help worthy young men attend the University. Profit
+from the chair sales goes to the John Graham Memorial Scholar-
+ship Fund. Recently the Alumni Association turned over to the
+University a check for $3,000, bringing the total in the Graham
+Scholarship Fund to $17,000.
+
+17
+
+Class notes
+
+ 
+
+ 
+
+ 
+
+‘THE
+WASHINGTON AND LEE
+CHAIR
+With Crest in Five Colors
+
+The chair is made of birch and
+rock maple, hand-rubbed in
+black with gold trim and arms
+finished in cherry. It makes a
+welcome gift for Christmas,
+birthdays, anniversaries, or wed-
+dings. All profit from sales of the
+chair goes to the scholarship
+fund in memory of John Gra-
+ham, 714.
+
+Price $47.00 f.o.b.
+
+Gardner, Massachusetts
+
+Mail your order to
+WASHINGTON AND LEE
+ALUMNI, INC.
+Lexington, Virginia 24450
+The normal shipping interval is
+
+five to six weeks after the receipt of
+the order.
+
+ 
+
+ 
+
+ 
+
+18
+
+1902
+
+Jupce Witt1am H. Brown was singularly
+honored and cited at a luncheon Nov. 16,
+1972 by the Oklahoma County Bar Assn.
+Before completing his law degree at Wash-
+ington and Lee, Brown served a term in the
+Mississippi Legislature. Admitted to the bar
+in 1902, Judge Brown opened his practice
+in Hobart, Okla., that same year. In 1911, he
+was elected Judge of the District Court of
+the Fifth Judicial District. He remained on
+the bench until 1919. From 1929 to 1931
+Judge Brown was an Assistant Attorney Gen-
+eral of Oklahoma and was Municipal Coun-
+selor for Oklahoma City. In 1933 he served
+as attorney for the Oklahoma State Corpora-
+tion Commission. Judge Brown left public
+service in 1934 and has continued law prac-
+tice. Probably the most significant litigation
+in which Judge Brown was an active partici-
+pant was the parking meter cases in the
+1930’s. He developed the landmark legal
+theory adopted by the Oklahoma Supreme
+
+Court.
+1913
+
+BURNLEY R. ELAM, a prominent executive in
+the insurance business in Hartford, Conn.,
+died Dec. 24, 1972. A native of Virginia, he
+had lived most of his life in Hartford and
+retired several years ago to Phoenix, Ariz.
+
+119
+
+CureF Justice E. Howarp McCates retired
+from the Louisiana Supreme Court Dec. 22,
+1972 with ceremonies in New Orleans spon-
+sored by the State Bar Assn. McCaleb passed
+the bar examination in February, 1920, and
+was appointed an assistant U. S. Attorney.
+His judicial career began in February, 1936,
+when he was appointed by Gov. James A.
+Noe to the Court of Appeals. He was elected
+to the Supreme Court, took office on Jan.
+1, 1947, and in 1970 became chief justice of
+the Court. McCaleb received plaudits and
+best wishes from each of the justices on the
+
+Supreme Court.
+1923
+
+Rosert H. Carr, director of the Jasper, Ala.,
+Housing Authority, is still very active. He is
+a land agent for a coal company in Walker
+County and also manages a lumber broker-
+
+age business.
+1924
+
+Tuomas M. Bemis, a standout on the Gen-
+erals’ football team in his college days, is re-
+tired and lives in Prescott, Ark. For many
+
+years he was in the lumber and _ banking
+
+business. More recently he was in the real |
+
+estate business from which he has retired.
+
+THe Rev. A. EMERSON JOHNSON has recently
+retired after more than 43 years as a Pres-
+byterian minister. After graduation from
+Union Theological Seminary in Richmond,
+he became pastor of the Monterey, Va.,
+group of Presbyterian churches in 1929 and
+continued in that post until 1963. Since
+1963, Johnson had been pastor of the Ty-
+gart’s Valley Parish at Huttonsville, W.Va.
+He and his wife now live in Staunton, Va.
+
+Since his retirement from Scott Paper Co.,
+FRANCIS W. PLowMAN and his wife have
+traveled extensively. They spend consider-
+able time in Barbados. Plowman is a former
+president of the W&L Alumni Association.
+
+GrorGE S. SPRAGINS is a retired vice president
+and branch manager of Bank of America,
+Inc., and lives in Arcadia, Calif. He and his
+wife are proud of their son and daughter
+and five grandchildren.
+
+Loch
+
+CuHartes S. HEILIG is managing the Taylor
+Mattress Co. of Salisbury, N.C., and is
+treasurer of the North Carolina Lutheran
+
+Synod.
+1926
+
+After 45 years of teaching, PRor. Harris C.
+Moore, Sr., has retired from El Camino
+College as professor emeritus. He has written
+two books A Biology Lab Manual and A
+Syllabus for Biology.
+
+EMMETT W. MACCORKELE, JR., retired execu-
+tive with Air Reduction Pacific Co., is now
+associated with Miller Properties Investment
+Co. of Palo Alto, Calif.
+
+1928
+
+GERALD F. HOorRINE is a director of the Alex-
+andria, Va., Red Cross, a member of the
+board of governors of St. Stephens Episcopal
+School, a member of the Alexandria Hospital
+Corp. and assistant treasurer, Immanuel
+Church-on-the-Hill.
+
+£29
+
+Harry M. WILSON retired Aug. 15, 1971 as
+vice president and trust officer of the
+Florida National Bank in Jacksonville.
+
+ARTHUR D. SIMMONS, a furniture business-
+
+WeL
+
+rt
+
+ 
+
+ 
+
+MOBILE. The alumni of Mobile
+and Lee bask a
+occasion was held Friday, ments
+Dec. 29, 1972, at the Athelstan Club in made
+
+man in Adams, M
+First A ° a7] a 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and currently a resident of Lexington, has
+been named to the Board of Overseers of
+Lynchburg College. For many years, he was
+a member of the staff of radio station
+WWOD in Lynchburg, where he was a time
+salesman and also wrote programs. One of
+his programs, “A City Grows,” ran from 1947
+until 1952. He was also associated with
+WLVA-TV and was a land developer. He is
+now retired. Gooch is interested in the W&L
+radio station WLUR and the Department
+
+of Journalism.
+1932
+
+ALLAN S. DELAND has retired from service
+with the federal government and lives in
+East Dorset, Vt. In ski season he works part
+time at Big Bromley.
+
+E. CARLYLE LyNcH has retired from teaching
+drafting and industrial arts. He now is mak-
+ing measured drawings of rare furniture an-
+tiques. The plans can be used to make exact
+reproductions.
+
+DAvip GEORGE PRICE retired in January, 1973,
+after 38 years of service in the federal gov-
+ernment, particularly with the U. S. Navy
+Bureau of Personnel.
+
+THE Rev. WILLIAM L. WOODALL is retired
+from active ministry with the United Pres-
+byterian Church. He nevertheless stays busy
+and is doing considerable traveling while
+studying the Revolutionary War.
+
+1933
+
+WILLIAM J. Brooks, JR., who was with Gen-
+eral Motors Corp. for 33 years, is now re-
+tired and living in Dallas. He and his wife
+are doing considerable traveling.
+
+J. FREDERICK Cook, formerly in the retail
+hardware business in Waynesboro, Va., is
+now a real estate broker and operates the
+Cook Land Co.
+
+1934
+
+GrorcE L. REYNOLDS was recently elected
+president of the New Jersey Industrial De-
+velopment Assn. for 1973.
+
+After four years as Secretary of State of
+West Virginia, ROBERT D. BAILEY is back in
+Pineville in the private practice of law.
+
+1935
+
+EDWARD P. MINCHER has retired as Revisor
+of Statutes of the State of New Jersey. He
+continues as legal counsel of the Medical
+
+20
+
+Society of New Jersey and the New Jersey
+
+Dental Assn.
+1936
+
+GEORGE W. HARRISON, a retired lieutenant
+commander in the U.S. Army, has completed
+35 years with Equitable Life Assurance Soc-
+iety. He is a past commander of American
+Legion Post 60.
+
+Dr. KENNETH G. MACDONALD is on the
+Board of Governors of the Southern West
+Virginia Automobile Assn. and a member of
+the boards of the Charleston Boat Club and
+the Buckskin Council of Boy Scouts.
+
+STtuAaRT T. MILLER has been transferred from
+Phoenix, Ariz., to Atlanta by Western Elec-
+tri¢ Co. He is in charge of the Atlanta tele-
+phone cable manufacturing plant which con-
+tains a cable engineering center and a branch
+lab of Bell Telephone.
+
+1937
+
+CHARLES A. BUTTERWORTH, JR., is fiscal and
+securities analyst for the Florida State De-
+partment of ‘Transportation.
+
+Davip B. WHARTON is author of a new book,
+The Alaska Gold Rush, recently published by
+the Indiana University Press. Wharton is a
+former newsman and college professor. He is
+a lawyer by training and a former member
+of the United States foreign service. He is
+author of In the Lexicon of Youth, Sound
+of Tokay, and Thugs on Strike.
+
+JOHN M. Jones, III, has recently been named
+a member of the editorial committee of the
+Southern Newspaper Publisher’s Assn. The
+editorial committee is one of three _ basic
+standing committees of the association.
+
+ANDREW H. BAur, a successful industrial de-
+veloper in St. Louis, has established the
+James A. Baur Memorial Research Fund at
+the University of Virginia Medical School
+and Hospital in the field of brain research.
+The program is endorsed by the Alfred P.
+Sloan Foundation.
+
+1938.
+
+For six years after graduation, WENDELL R.
+Sroors was with the FBI. Since then he has
+been in the food brokerage business in Kan-
+sas City. He is now president of Shurtenda
+Foods, Inc., with branches in Kansas City
+and in Cedartown, Ga. He and his wife,
+Lois, have four children and the family lives
+in Shawnee Mission, Kan.
+
+ 
+
+1939
+
+H. PRESTON HENSHAW, assistant vice presi-
+dent of sales in the coal traffic department
+of the C&kO—B&O railroads, has assumed re-
+sponsibility for all coal sales and_ services
+offices. Henshaw started in the coal business
+in Huntington, W.Va., joining the C&O in
+1950 and going to Cleveland in 1959 as
+special assistant in the office of the vice
+president for coal traffic and development.
+He is a member of the West Virginia Re-
+gional Exports Expansion Council, an agency
+of the U.S. Department of Commerce, and
+is a director and member of the executive
+committee of Bituminous Coal Research of
+Pittsburgh, Pa.
+
+W. ARTHUR BEETON is associated with the
+American Consulate General’s. office in
+Frankfurt, Germany. He is the senior FAA
+representative.
+
+The Rev. BENJAMIN R. LAWTON is president
+of a Baptist Theological Seminary in Tor-
+ino, Italy.
+
+JAMeEs A. SALTSMAN is with the Civil Aero-
+nautic Board as Deputy Director, Bureau of
+Operating Rights. He and his wife, Brooks,
+have a son and daughter. The family lives
+in Chevy Chase, Md.
+
+JAMEs E. Murpuy, after 31 years as an execu-
+tive with Clark Equipment Co. of Battle
+Creek, Mich., has retired. He and his wife
+now live in Sarasota, Fla.
+
+Roy S. THOMPSON, JR. will continue as presi-
+dent of the American Southern Insurance
+Group, Inc., of Atlanta. The firm was recent-
+ly acquired by the George Washington Corp.
+of Jacksonville, Fla. The corporation is a
+diversified financial services and insurance
+holding company which now owns three
+life insurance companies, two insurance mar-
+keting companies, a financial services com-
+pany, and is the advisor to Fidelity Mort-
+gage Investors, a major real estate invest-
+ment trust listed on the New York Stock
+
+Exchange.
+1940
+
+Jackson G. AKIN was re-elected a trustee of
+the Albuquerque Academy for Boys. He was
+also named executive vice president of the
+firm of Rodey, Dickason, Sloan, Akin and
+Robb, a_ professional association Consisting
+
+of 26 lawyers.
+194]
+
+Harry L. SMITH is assistant for public infor-
+
+Wer
+
+ 
+
+J. A. Philpott, *45
+
+mation and publications to the Virginia
+State Superintendent for Public Instruction.
+
+TOM BROCKENBROUGH continues to serve as
+professor of civil engineering and assistant
+dean of the College of Engineering at the
+University of Delaware.
+
+‘THEODORE A. BRUINSMA is president of Har-
+vest Industries, Inc., a diversified company
+in animal health care and feed products. He
+also owns a horse and cattle ranch in Robles,
+Calif.
+
+CHARLES LANDRUM, JRr., is a fellow of the In-
+ternational Academy of Trial Lawyers. An
+attorney in Lexington, Ky., he is president
+of the Fayette County Bar Assn., the recipi-
+ent of the 1971 Outstanding Lawyer Service
+Award from the Kentucky State Bar, and
+curator of Translyvania University. He is
+also a regular visiting lecturer at the Uni-
+versity of Kentucky College of Law.
+
+WILLIAM LEE SHANNON is on _ the Shelby-
+ville, Ky., School Board and is treasurer of
+the Old Masons Home of Kentucky. He is
+also a member of the board of the Ken-
+tucky Baptist Hospital in Louisville of which
+another W&L man, Norm Iler, 37, is chair-
+
+| 1949
+
+Dr. RoBert L. PINcK, a radiologist in New
+York, was recently elected vice president of
+the medical staff of the Long Island College
+Hospital. He has also been recently elected
+to fellowship in the American College of
+
+Physicians,
+1943
+
+BARTON W. Morris, Jr., has been named
+published of the Roanoke Times and Roa-
+noke World-News effective April 1. As pub-
+lisher, he will have responsibility for and
+authority over all news and editorial depart-
+ments on both papers. Currently he is vice
+president and executive editor. Morris’ pro-
+motion was announced as part of a general
+reorganization of Landmark Communica-
+tions Inc., parent firm of the Times-World
+Corp. of Roanoke. Morris succeeds M. W.
+Armistead III as publisher. Armistead—who
+received an honorary Doctor of Laws degree
+in 1967 from Washington and Lee—becomes
+chief operating officer and executive vice
+president of Landmark, which owns two
+newspapers, two radio stations and a TV
+Station in Norfolk and two papers and a
+TV station in Greensboro, N.C., in addition
+to the two Roanoke newspapers.
+
+March, 1973
+
+Secretary of the Navy John Warner
+
+Depariment of Defense Distinguished
+
+with former Secretary of Defense
+Melvin R. Laird at ceremonies at
+which Warner was presented the
+
+Public Service Medal.
+
+EDWIN ZELNICKER, JR., is executive vice presi-
+dent of Fry-Zelnicker-Mitchell Insurance
+Agency, Inc. He is also chairman of the
+board of the Mobile, Ala., Public Library,
+past president of the Mobile Chamber Music
+Society, the Springhill Avenue Temple, and
+the Mobile Assn. of Independent Insurance
+
+Agents.
+1944
+
+JAMES CALEB STANFIELD, an attorney in Paris,
+fll., is director and general counsel for the
+Edgar County Bank and Trust Co. He raises
+cattle as a side line.
+
+1945
+
+THE Rev. NEAL N. HERNDON, Jr., is serving
+the Bethlehem Presbyterian Church in Corn-
+wall, N. Y.
+
+WiLt1AM C. Mowris is employed by Eastern
+Kodak in sales division in the states of Wash-
+ington and Alaska. He and his wife have
+three daughters.
+
+J. ALVIN PHILPoTT, a member of the board
+of directors of Washington and Lee Alumni,
+Inc. and vice president of Burlington House
+Furniture in Lexington, N.C., has been re-
+elected to the board of directors of the
+Southern Furniture Manufacturers Assn.
+Philpott joined United Furniture Corp., now
+Burlington House Furniture, in 1947 and has
+served as secretary-treasurer, sales manager
+and vice president. He is past chairman of
+the Lexington City School Board, chairman
+of the Uwharrie Council of Boy Scouts, and
+a trustee of the Lexington Memorial Hospi-
+tal.
+
+Dr. ROBERT M. SINSKEY is medical director of
+Southern California Lion’s Eye Institute in
+Santa Monica, Calif.
+
+1946
+
+WILLIAM A. MAGEE has completed 25 years
+with Shenandoah Life Insurance Co. He is
+now vice president for investments.
+
+1947
+
+Democratic Sen. WILLIAM T. BROTHERTON,
+JR., has been elected president of the West
+Virginia Senate. Brotherton is an attorney
+
+in Charleston.
+1948
+
+BORN: Mr. and Mrs. Jostan P. Rowe, III,
+a son, Josiah P., IV, on April 28, 1972. Rowe
+retired in September, 1972, as mayor of
+
+ 
+
+Fredericksburg, Va., after serving eight years.
+
+RICHARD C. VIERBUCHEN, vice president of
+Washington Gas Light Co., is chairman of
+the 1973 Cherry Blossom Festival. Accord-
+ing to Vierbuchen, there are plans to re-
+place the traditional theme of the queen
+and her princesses with a brand new, design-
+ed-for-television extravaganza called “The
+College Girl of the Year Pageant.” The ten-
+tative package was worked out by a New
+York public relations consultant and called
+for contests on college and university cam-
+puses in all 50 states to find the nation’s
+“top” college girls. The decision for this
+plan has been postponed at least for the
+year 1973 because of too little time to or-
+ganize the complex selection setup.
+
+WALTER B. Porter, editor and publisher of
+the Culpeper, Va., Star-Exponent, has been
+named civilian aide to the Secretary of the
+Army for Virginia.
+
+1949
+
+Epwarp P. BERLIN, JR., has been promoted
+to editor of the News-Virginian. The
+Waynesboro newspaper recently received, for
+the fifth time, the School Bell Award, given
+by the Virginia Education Assn. for out-
+standing coverage of public education.
+
+Dr. Everett L. TAyYLor, Jr., has left his pri-
+vate practice of medicine in Sparta, N.C.,
+and now holds the position of emergency
+room physician at the Moore Memorial
+Hospital.
+
+Navy Secretary JOHN W. WARNER was pre-
+sented the Department of Defense Distin-
+guished Public Service Medal by Defense
+Secretary Melvin R. Laird on January 10,
+1973. The citation accompanying the medal
+praises Warner for his “superb leadership
+to the Department of the Navy during a
+difficult period of changing priorities, mis-
+sions, and resources.” The citation also States,
+“In addition to his Navy duties, he has ably
+represented the Department of Defense in in-
+ternational law of sea negotiations, and the
+President of the United States in negotiating
+an Executive Agreement on Incidents at Sea
+between the United States and the Soviet
+Union.
+
+PETER D. DEBoER, who has served DuPont in
+Waynesboro for 24 years as purchasing su-
+pervisor, has been promoted and _ transferred
+to Richmond where he will be regional buy-
+er. He and his wife, June, have two sons
+
+21
+
+ 
+
+O. M. Mendell, ’50
+
+and one daughter.
+
+F. DoNALD HARRISON, having recently merged
+his Dallas-based insurance agency with Fred
+S. James & Co., is now vice president and
+secretary of the firm, one of the largest na-
+tional insurance brokerage firms. He is also
+vice president of the Dallas Insurance Assn.
+and membership chairman of the Dallas
+Assn. of Insurance Agents.
+
+1950
+
+Dr. DonALp D. Hook, associate professor of
+modern language, Trinity College in Hart-
+ford, Conn., has co-authored two new Ger-
+man textbooks, one for Scribners and one
+for Van Nostrand Reinhold Co. The books
+are expected to appear in early 1973. Pro-
+fessor Hook is the co-author of four other
+textbooks.
+
+Dr. CHARLES F. A. McCLUuER is now in his
+12th year in the practice of dermatology in
+Ft. Worth, Tex.
+
+Dr. Rospert H. MAuck is an orthopedic sur-
+geon in Martinsville, Va. He is married to
+the former Langhorne Sydnor of Lynchburg.
+
+OLIVER M. MENDELL, formerly regional vice
+president in the mid-town Manhattan area,
+has been promoted to the position of senior
+vice president of Chemical Bank, New York,
+with increased responsibility in the area of
+the bank’s metropolitan business. Mendell
+joined Chemical in 1958 as assistant secre-
+tary. He became vice president in 1962, when
+he was put in charge of the bank’s branch at
+50 Court Street in Brooklyn. His outside af-
+filiations include member of the board of
+the Selective Service System; a past director
+of Cartier, Inc.; co-treasurer and director of
+UJA of Greater New York; a member of the
+President’s Council, Brandeis University, and
+a member of the Committee on Legacies and
+Bequests of the American National Red
+Cross.
+
+Joun H. McCorMaAck, Jr., has become execu-
+tive vice president of Atlantic National Bank
+of Jacksonville, Fla. He joined Atlantic Na-
+tional in 1957 as assistant vice president. In
+1962 he became vice president and in 1969
+became first vice president.
+
+ROBERT F. SILVERSTEIN has served two terms
+as city councilman in Charleston, W.Va. He
+was also elected to the Republican State
+Executive Committee for 1972.
+
+Epwarp P. Tuomas is president and gen-
+
+22
+
+ 
+
+J. K. Boardman, ’51
+
+eral manager of Terrace Lanes, Inc. in Fred-
+erick, Md. The firm operates two ten-pin
+bowling centers. Thomas is beginning his
+third term in the Maryland Senate. He serv-
+ed as State Chairman of the Committee to
+Re-Elect the President.
+
+195]
+
+RoBert W. KNuDSEN is with the Photograph
+Division of DuPont as industrial manager in
+the 13-state Midwest Region. He and his
+wife, Mary Jane, have six children and the
+family lives in Sheffield Lake, Ohio.
+
+JoHN K. BOARDMAN, Jr., president of Sam
+Moore Furniture Industries in Bedford, Va.,
+has been re-elected to the board of directors
+of the Southern Furniture Manufacturers
+Assn. Prior to joining Sam Moore Furniture
+in 1957, Boardman was employed by the
+Chesapeake & Potomac Telephone Co. He
+served as production manager and _ plant
+manager at Sam Moore Furniture before
+becoming president.
+
+Tuomas C. MartTIN, president of the Cam-
+den-based Associated-East Mortgage Co., a
+subsidiary of Associated Mortgage Com-
+panies, Inc., has been elected president of
+the New Jersey Mortgage Bankers Assn.
+
+HUNTER LANE, JR., an attorney in Memphis,
+has been elected to the Board of Education.
+He also serves as director of the Chamber of
+Commerce and president and member of the
+board of Memphis and Shelby County Men-
+tal Health Center. Lane is also a director
+of the Liberty Bowl Festival Assn.
+
+FREDERICK G. UHLMANN, senior vice president
+of H. Hentz & Co. of Chicago, has been
+elected chairman of the Chicago Board of
+Trade.
+
+MARVIN C. BOWLING, JR., has been elected a
+vice president of Lawyers Title Insurance
+Corp. He remains the company’s counsel.
+Bowling has been assigned to Lawyers Title’s
+home office in Richmond, Va., throughout
+his 2l-year career with the company.
+
+1952
+
+BORN: Mr. and Mrs. JOSEPH J. MULLINS, a
+daughter, Margarethe Starr, on Nov. 16, 1972.
+The family lives in Albuquerque, N.M.
+
+Davin L. WATERS was recently awarded his
+Charter Life Underwriters designation. He
+represents Prudential Life Insurance Co. and
+lives in Covington, Va. Waters is also chair-
+
+man of the Alleghany County Board of Su-
+pervisors and has recently been active in that
+board’s efforts for a building program for
+the local schools.
+
+Orest NEIMANIS has left his position as
+public relations officer at Radio Liberty and
+is now with the management of A. Neimanis
+Buchoertrieb in Munich, Germany. The firm
+specializes in publishing and world wide dis-
+tribution of Russian-language books. It ranks
+among the largest dealers in Slavic litera-
+ture.
+
+A. R. BopeNn, formerly executive vice presi-
+dent of United Electronic Institute, a division
+of General Educational Services Corp., has
+now joined Independent Boxmakers, Inc.,
+of Louisville, Ky. He will serve as executive
+vice president and secretary-treasurer. Boden
+is a member of the board of directors of the
+Kentucky Society of Certified Public Ac-
+countants.
+
+Epwarp E. EL.is is general counsel for Ken-
+tucky Fried Chicken Corp. He has been with
+the firm since 1969.
+
+GIDEON N. STIEFF, JR., has been named presi-
+dent of the Retail Merchants Assn. of Balti-
+more. He is also a member of the board of
+directors of the newly formed Baltimore
+Forward Thrust and is a director of the
+Chamber of Commerce.
+
+BARKLEY J. STURGILL, after serving three
+terms as county attorney, has been appoint-
+ed vice chairman of the Kentucky Public
+Service Commission.
+
+ARTHUR A. BIRNEY has written a book on
+celestial navigation entitled Moon Light
+Navigation. It was scheduled for publication
+in December, 1972.
+
+1953
+
+WILLIAM E. Brock, III, Republican U.S.
+Senator from Tennessee, has been endorsed
+as chairman of the National Republican
+Campaign Committee.
+
+Dr. JOHN I. BOWMAN, Jr., is practicing oral
+surgery at Virginia Beach.
+
+LEONARD B. RANSON, JR., has left the active
+ministry and is now in college administra-
+tive work. While continuing work toward
+his masters at the University of Iowa, he is
+dean of students at Mount Mercy College.
+The family lives in Frostburg, Md.
+
+WeL
+
+ 
+
+ 
+
+tor in physical education and assistant bas-
+ketball coach.
+
+WATSON G. WATRING recently became a cer-
+tified diplomat of the American Board of
+Obstetrics and Gynecology. He is an assis-
+tant professor, Department of Obstetrics and
+Gynecology at U.C.L.A. Medical School. He
+is also gynocologist at the City of Hope
+National Medicap Center and lives in Pasa-
+dena.
+
+S. Scorr WHIPPLE has been retained as edi-
+torial consultant by Xerox Corp. The project
+involves a new series of university study pro-
+grams.
+
+Dr. IRwIN R. BERMAN has been promoted to
+associate professor of surgery, New York
+University Medical School. He was elected
+to membership in the Society of University
+Surgeons.
+
+Wiuiam A. Tow er, III, formerly with Wa-
+chovia Bank in Charlotte, N. C., is now in Ft.
+Worth, Tex., where he is vice president of
+Rattikin Title Co. He was recently named
+director and secretary-treasurer of Equitable
+Title Co. in Amarillo, a company owned by
+Rattikin. His responsibilities include admini-
+strative management and_ financial supervi-
+sion for all Rattikin companies. Towler was
+recently elected president of the Ft. Worth
+Executive Assn. for 1973 and is currently a
+director of the American Heart Association.
+
+CHARLES P. Corn is an editor with Houghton
+Mifflin Publishing Co. and currently work-
+ing in their New York office.
+
+RicHARD S. VEDDER is employed as an ac-
+count executive for Blue Cross of Western
+New York headquartered in Buffalo. He has
+been with the company four years.
+
+Ep Hempsreap is presently assigned as as-
+sistant inspector general for the 18th Air-
+borne Corps at Fort Bragg, N. C.
+
+1959
+
+BORN: Mr. and Mrs. Douctas I. SMINK, jr.
+a son, Jason Ijams, on July 19, 1972. The
+family lives in Gaithersburg, Md.
+
+BORN: Mr. and Mrs. LEsTtER H. WASKINS,
+a daughter, Stephanie Anne, on May 9, 1972.
+The child joins an older sister.
+
+J. STEPHEN Marks has opened a new com-
+pany in Houston, the Credit Bureau Mar-
+keting, Inc., of which he is president. The
+
+24
+
+company buys and sells credit information
+on consumers on a national basis.
+
+JosepH L. CRAYCROFT, Jr., has recently be-
+come president of Mac Panel Co., a manu-
+facturer of patchboard programming  sys-
+tems, magnetic computer tapes, and magne-
+tic audio tapes in High Point, N. C. He and
+his wife, Francie, have three sons and two
+daughters.
+
+RicHarp A. Powe Lt is teaching seventh and
+eighth grades at Roger B. Chaffee High
+School, U. S. Naval Air Station, in Bermuda.
+
+Joun P. FREEMAN of Rochester, N.Y., is Sen-
+ior research chemist for Eastman Kodak Co.
+He is also a director and personnel officer
+of The Cave Research Foundation, a non-
+profit corporation interested primarily in
+the geography, geology, biology, and arche-
+ology of national park caves.
+
+Dr. Henry H. BonLMAN in November, 1972,
+joined the staff of Case Western Reserve
+University School of Medicine in the Depart-
+ment of Orthopaedic Surgery. He is doing
+research in spinal injuries and has a part-
+time private practice.
+
+1960
+
+CHARLES A. PERKINSON, JR., is on the board
+of directors and is general counsel for the
+Bank of Brunswick. He is also judge of the
+City of Emporia’s Municipal Court and the
+Juvenile and Domestic Relations Court. He
+and his wife have two daughters, and the
+family lives in Lawrenceville, Va.
+
+Jorvon M. Situ is working on his doctoral
+dissertation at Chapel Hill investigating the
+role of the U.S. Supreme Court during Re-
+construction. He has also secured a teach-
+ing assistantship in American constitutional
+history.
+
+Hoye C. Jones recently returned from two
+years in Buenos Aires, as regional personnel
+director for First National City Bank in
+South America. He was promoted January,
+1973, to vice president of First National
+City Bank in New York City, with respon-
+sibilities for corporate manpower planning.
+
+Cuar.es G. BurFruM, III, has moved to Kan-
+sas City, Mo., where he is associated with
+the Johnson County National Bank and
+Trust Co. in Prairie Village.
+
+Hucu L. CAMPBELL has been elected senior
+
+W. G. Loeffler, Jr., °60
+
+vice president of the First Virginia Bank in
+Falls Church. He joined First Virginia Bank
+in 1967, after transferring from First Vir-
+ginia Bank of Tidewater in Norfolk, where
+he had served as assistant vice president and
+director of personnel.
+
+RANDOLPH B. KiLMON has been made vice
+president of Loomis, Sayles Co., an invest-
+ment counseling firm in Boston Mass.
+
+JEROME A. SuSSKIND an attorney in Jackson,
+Mich., was recently elected representative of
+the Fourth Judicial Circuit for the State
+Representative Assembly and was appointed
+to the hearing committee of that body.
+Susskind is the Republican county chairman
+for a two-year term. He is a member of the
+American Arbitration Assn. State and Na-
+tional Labor Panel, and a member of the
+American Trial Lawyers Assn.
+
+WILLIAM G. LOEFFLER, JR., has been named
+vice president of Cargill, Wilson and Acree,
+a large advertising agency in Charlotte, N. C.
+Loeffler, who has been account group Mman-
+ager since 1971, joined the agency in 1969,
+coming from General Electric, where he had
+held several advertising and public relations
+
+posts.
+1961
+
+MARRIED: RicHARD L. KUERSTEINER [tO
+Barbara C. Lenehan on Nov. 10, 1972. They
+live in Hillsborough, Calif., where Kuerstein-
+er is a member of the Navy Office of the
+General Counsel.
+
+BORN: Mr. and Mrs. HENRY H. HARRELL,
+a daughter, on Nov. 14, 1972. Harrell is em-
+ployed by Universal Leaf Tobacco Co. He is
+an assistant vice president and travels for
+the company in the Far East. The family
+lives in the country outside of Richmond.
+
+BORN: Mr. and Mrs. CourRTNEY MAUzy, a
+son, Edward Scott, on Sept. 11, 1972. Court-
+ney is president of Carolina Components
+Corp., a building materials manufacturer
+and distributor in the Raleigh, N. C. area.
+
+BORN: Dr. and Mrs. WILLIAM N. OFFUTT,
+IV, a son, William N., V, on Sept. 8, 1972.
+Dr. Offutt is presently on a Heed Founda-
+tion fellowship in oculoplastic and recon-
+structive surgery and corneal diseases and
+microsurgery.
+
+BORN: Mr. and Mrs. DAvip CAROTHERS, a
+daughter, Charlotte Anderson, on Nov. 28,
+1972. Carothers is president of Allright
+
+WeL
+
+ 
+
+ai
+
+: ans se
+ron
+
+“4
+a
+
+oe
+
+a
+ee
+
+>
+a
+
+a
+
+4
+
+ 
+
+ 
+
+H. D. Ormsby, III, ’64
+
+manager of the General Books Division of
+McGraw-Hill Book Co. Gillett joined Mc-
+Graw-Hill in 1965 as a salesman. He was
+subsequently promoted to marketing manager
+of the Trade Division and then to director
+of advertising and promotion for the Gen-
+eral Books Division. In January, 1971, he
+became, in addition, publisher for the Jun-
+ior Books Division.
+
+1964
+
+BORN: Mr. and Mrs. JoHN P. Roy, a
+daughter, Eleanor, on Oct. 10, 1972. The
+child joins an older brother and sister.
+
+BORN: Mr. and Mrs. F. J. KRALL, a daugh-
+ter, Jennifer Dodd, on July 24, 1972. Krall
+is with Warner-Lambert Co. in Chatham,
+N. J., and product manager for Certs.
+
+BORN: Mk. and Mrs. E. STEPHEN WALSH, a
+son, Bradley Christopher, on Sept. 13, 1972.
+The boy joins an older brother, and the
+family lives in New York City.
+
+BORN: Mr. and Mrs. MARTIN E. GALT, III,
+a son Frederick Scott, on July 3, 1972. The
+family lives in St. Louis, Mo.
+
+BORN: Mr. and Mrs. RICHARD A. COPLAN, a
+son, Adam Grant, on Oct. 25, 1972.
+
+BORN: Mr. and Mrs. SYDNEY J. BUTLER, a
+son, Sydney Johnston, Jr., on Aug. 15, 1972.
+Butler is an attorney in Memphis.
+
+HENRY D. Ormsby, III, has been named vice
+president in the Corporate Banking Group
+of the First National Bank of Louisville, Ky.
+
+LEsLicE C. RUCKER, JR., is currently with
+CxP Telephone Co. of Maryland and re-
+sponsible for all business accounts in Mont-
+gomery County. He and his wife and daugh-
+ter live in Arlington, Va.
+
+TAIN P. TOMPKINs is currently working as
+an economic officer in the U. S. Embassy in
+Lisbon, Portugal.
+
+Lewis B. MCNEACE, JR., after discharge from
+U. S. Air Force in February, 1972, is now in
+the practice of law in Richlands, Va.
+
+Dr. STUART J. YOFFE is a pediatrician in
+Houston, Tex., at Baylor Medical School,
+spending a year as an infectious disease
+fellow.
+
+DENNIS R. MORGAN took an indefinite leave
+of absence from his law practice in Cleve-
+land to become the Chief of Labor Relations
+
+26
+
+for the State of Ohio. Early in 1972, he
+was author of a law review article entitled
+“Right-to-work Laws: The Current State of
+Affairs,” which was published in the Case
+Western Reserve Law Review.
+
+ERNEST D. LEVERING, a_ vice president of
+Ramsay, Scarlett and Co., has been named
+executive vice president of the Baltimore
+Steamship Agency. Levering joined the com-
+pany at its Baton Rouge, La., marine
+terminal.
+
+Epwarp S. Crort, III, formerly with White
+and Weld Co. in New York City, is now in
+Atlanta with the investment firm of Robin-
+son-Humphrey, where he has recently been
+promoted to the position of vice president
+in the Corporate Finance Department.
+
+A. MICHAEL PHILIPPS, formerly assistant
+director of publications at Washington and
+Lee, is now associated with the stock brok-
+erage firm of Paine, Webber, Jackson &
+Curtis in its Washington office.
+
+Dr. GEORGE B. CRADDOCK, JR., is completing
+a two year commitment at the National
+Institute of Health in Bethesda, Md. His
+wife, Mary is also a physician and is a
+surgical resident at Georgetown University.
+
+C. Fox URQUHART, JR., has been elected a
+town councilman for Courtland, Va.
+
+STANLEY A. FINK has been presented the
+Junior Chamber International Senatorship
+award, one of the highest awards bestowed
+upon a Jaycee. The award was presented at
+the New Jersey Jaycees’ November Assembly
+in Cherry Hill. Fink is a practicing lawyer
+in Clark, where he is legal counsel for the
+Clark Chapter of Jaycees. He has also served
+as attorney for the Clark Planning Board.
+
+A. THOoMAs OWEN, an Army _ intelligence
+officer until 1966, was with Chubb & Son,
+Inc. of New York until 1970 as an insurance
+underwriter. He is currently with W. S.
+Owen & Bros. of York, Pa., an insurance
+agency. He is married to the former Eliza-
+beth Anne Keller.
+
+On leave from the physics department of
+Ripon College, ROBERT A. PADDOCK is at the
+Argonne National Laboratory, Center for
+Enviromental Studies, Great Lakes Project.
+
+PAUL F. VAN AVERY is an account executive
+with Merrill, Lynch, Pierce, Fenner and
+
+Smith in Syracuse, N.Y. He and his wife,
+Mary Alice, have two sons.
+
+PHILIP BooTH, in his second season with
+the San Francisco Opera Co., gave a recital
+in Lexington in January, 1973, as part of
+the Rockbridge Concert Theatre Series.
+
+1965
+
+MARRIED: Eart Macpovitz to Barbara
+Lynn Bozof on Dec. 23, 1972 in Memphis,
+Tenn.
+
+BORN: Mr. and Mrs. JOHN D. WALLACE,
+a daughter, Phebe. Wallace is with Dunham-
+Bush in West Hartford, Conn.
+
+BORN: Mr. and Mrs. TimotHy A. VAN-
+DERVER, JR., a son, Glenn Bruce Grimes, on
+Nov. 24, 1972. Vanderver is a_ practicing
+attorney in Washington.
+
+BORN: Mr. and Mrs. DAN J. FRIEDMAN, JR.,
+a daughter, Michelle Nicole on Sept. 28,
+1972. Friedman is a staff programmer for
+IBM System Products Division in Sterling
+Forest, N.Y.
+
+GEORGE W. Price, III, is associated with
+Yeargin Properties, Inc., a real estate de-
+velopment firm based in Greenville, S.C.
+Currently he is manager of a condominium
+development in Spartanburg, S.C.
+
+MAX R. SHAPIRA is vice president of Heaven
+Hill Distillers, Inc., a Kentucky bourbon
+whiskey. He and his wife have one daugh-
+ter, and the family lives in Louisville.
+
+STEPHEN WARD RipEOUT, formerly of the
+Administrative Office of the United States
+Courts, has begun the private practice of
+law with offices in Alexandria, Va.
+
+ROBERT G. LATHROP is commissioner of the
+Vermont Department of Taxes. He con-
+tinues to play soccer in the Quebec Na-
+tional League and has won in several
+competitions. He is married and has two
+children.
+
+Lioyp F. Rex will receive his M.B.A. from
+the University of Colorado in August, 1973,
+and expects to be associated with Arthur
+Anderson and Co.
+
+Dr. MEL LaApes, having completed an intern-
+ship at Boston University Hospital and a
+residency at Pennsylvania Hospital, is now
+taking a hematology-oncology fellowship at
+
+WeL
+
+ 
+
+ 
+
+ 
+
+ 
+
+Greetings from A pgar
+
+   
+
+Garry Apgar, ’67, has been ap-
+pointed cartoonist and staff artist
+for the Roanoke Times and World-
+News.
+
+After his Apgar
+joined the U.S. Marines and served
+in Vietnam. While there he did a
+considerable amount of painting
+
+graduation,
+
+and drawing. On his discharge he
+drew on a freelance basis, and his
+cartoons appeared in the New York
+Daily News, The Richmond Times-
+Dispatch, National Review, and
+other periodicals.
+
+As a W&L student his cartoons
+appeared regularly in the Tues-
+day Ring-tum Phi, and he is be-
+lieved to be the only staff member
+
+‘6
+
+ever to have been placed on “car-
+toon probation.” In his senior year
+he contributed a series of Feifter-
+like caricatures of prominent fac-
+
+ulty members, including Deans W.
+
+MY BUT THAT's
+AN IMPRESSIVE
+STACK OF
+BRICK-A- BRAC
+
+up THefe!
+
+ 
+
+        
+   
+
+W. Pusey, III, David W. Sprunt,
+and James G. Leyburn, and other
+well-known teachers such as B. S.
+Stephenson, E. L. Pinney and
+James W. Starling. Many of his
+subjects now have the originals of
+those cartoons framed in their of-
+fices, and when he was graduated,
+he made an even trade on the dais
+with then-President Fred C. Cole:
+a diploma for the original of a car-
+toon about Dr. Cole and gradua-
+tion speeches, which had appeared
+in a recently published issue of the
+campus paper.
+
+While he was Ring-tum Phi car-
+toonist, Apgar developed his ‘‘octo-
+pede,” the outrageously punning
+figure shown in the accompanying
+illustration he drew for this issue
+of WeL. The octopede now ap-
+pears in all his political cartoons
+for the Times and World-News.
+
+ 
+
+ 
+
+28
+
+development for Porter-Gaud School in
+Charleston, S.C.
+
+W. LAWRENCE FELLMAN is president of Com-
+mercial Holdings, Inc. in Dallas, specializing
+in the development of shopping centers.
+
+ALAN T. RAINs, JRr., has been appointed di-
+rector of special projects for the American
+Society of Association Executives. Rains will
+work on ASAE information services and
+projects, government relations activities, and
+the certified association executive program.
+In addition, he will work on the ASAE
+Foundation, an education and_ research
+organization.
+
+After a two-year tour of Army duty in
+Germany and graduation from Emory Uni-
+versity’s Graduate Business School, —THomas
+J. Harpin, II, is now employed by the North
+Carolina National Bank in Charlotte as
+security analyst in the Investment Research
+Division. He is married to the former Cath-
+erine M. Hoar.
+
+1968
+
+MARRIED: MIcHAEL G. MorGAN to Susan
+Damon on Dec. 2, 1972, in Syracuse, N.Y.
+
+MARRIED: J. JEFFREY THISTLE to May
+W. Schlapp on Sept. 23, 1972 in Delray
+Beach, Fla. Thistle is currently associated
+with Reynolds Securities, Inc., an investment
+broker, in their Boca Raton offices.
+
+MARRIED: JOHN W. RICE, [R., to Patricia
+Elaine Beley on June 24, 1972, in Big
+Timber, Mont. He is now a captain and an
+instructor with the Strategic Missile Wing,
+Malmstrom AFB. :
+
+BORN: Mr. and Mrs. RUTHERFORD P. SMITH,
+a son, Rutherford P., Jr., on Oct. 28, 1972.
+Smith is attending Washington and Lee
+Law School and is an assistant football
+coach.
+
+W. Emory WATERS, JR., is president of
+Management South, Inc., a firm specializing
+in motel management. He lives in Valdosta,
+Ga.
+
+R. DouGLAs HUTCHENS received his Ph.D. in
+physical chemistry from the University of
+Pittsburgh in April, 1972. He is presently a
+lieutenant with the Air Force stationed at
+Wright-Patterson AFB in the Air Force
+Materials Laboratory.
+
+WeL
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+- ‘ . 7 . -
+- 7 - _ _ 7 - .
+- a - - - ' 7 + > 1 : 7 -
+7 - - .
+. 7 -
+. 7 - . - -
+.
+SS - - - -
+- - . - 7 ae
+- oe - Oe - OC a - Oo - :
+. 7 . 7 -
+. - - .
+. - - -
+- . - - :
+: a
+- - a
+- . 7 7
+a
+a -
+- > ae -
+: oe :
+7 - 7 . a
+- -
+- - -
+- ss - 7
+7 - - a - 7
+. -~ : - .
+- ard : - -
+SO > 7 - 7
+; Oo a -
+> . - - -
+- 7 7 oo 7 a
+7 . a
+- - a -
+> - . 7
+. - .?7 - ce
+- .
+. >) _ -
+. a oe - :
+7 7 - a - : >.
+7 7 - . — 7 > a - -
+- . - .
+- - - 7 Oo a - -
+; : a : a : : -
+; “ ;
+a oe 7 - .
+a -
+; : a - - -
+- ~~ a 7
+: 7 se -
+- 7 a. >
+- oa - - oe -
+_ - - - 7 -
+4 : .
+- - - 7 :
+- 7 oe - ‘
+* 7 - 7 - 7 7 :
+- 7 - - -
+7 - - - -
+a 7 - 7 -
+- a
+- - -
+_ - _ -
+7 - a . | - os -
+e = - 7 7 . - .
+Oo = -
+- - oe —
+-_ OO a - -
+- oe - .at - - -
+. 7 7 ~ ;
+. : a 7
+. a - 7 a 2
+.
+: - - a - - |
+7 oe 7 -
+7 - 7
+- . -
+a - 7 -
+.
+- - 7 = a
+re - : _ - - OO
+- : .
+7 . -
+- -
+- .
+- 7 * . . |
+- .
+- . - - -
+. - . 7
+- - - .
+. -
+- . 7 - .
+. - /
+- : :
+- . . .
+. 7 : .
+. - :
+- 7 - - . .
+- - - -
+. -
+- - -
+- - . -
+7 7 . - : a
+
+ 
+
+——
+ea
+
+ 
+
+ 
+
+Don’t Miss
+
+the
+
+Football Game
+May 19, 1973
+
+ 
+
+Alumni vs. Varsity
+
+ 
+
+ 
+
+BORN: Mr. and Mrs. J. Scorr APTER, a
+daughter, Molly Beth Apter, on May 29,
+1972. Apter is now Vice President of Apter
+Industries, Inc. of McKeesport, Penn.
+
+WILLIAM A. VAUGHN is currently the attor-
+ney in charge of the Environmental Law
+Section, Legal Staff, General Motors Corp.
+His headquarters are in Detroit.
+
+ARON L. SUNA is a lieutenant on active duty
+with the Judge Advocate General’s Corps,
+U. S. Navy, and stationed in Pensacola, Fla.
+
+HOMER F. GAMBLE, a junior in the College
+of Medicine at Charleston, S. C., recently rep-
+resented the medical school at the Southern
+Medical Assn. convention in New Orleans.
+Gamble is the immediate past president of
+his class and is the student representative
+on the school’s Sesquicentennial Committee.
+He is engaged in biochemistry research on
+lead poisoning and has written two papers
+
+on his work.
+197]
+
+MARRIED: E. STAMAN OciILvIE to Beverly
+Adair Means on Dec. 23, 1972, in Shreveport,
+La. Among the groomsmen were William
+B. Ogilvie, 64, Doug Gossmann, ’71, Balfour
+Sartor, 71, and Houston Bosley, ’71. Ogilvie
+is in graduate business school at Harvard
+University.
+
+MARRIED: JosePpH BERNSTEIN to Donna
+Joan Heavner on Dec. 20, 1972. Bernstein is
+an editorial assistant at the Michie City
+Code Publishers in Charlottesville. He ex-
+pects to attend Baylor Law School in Feb-
+ruary, 1973.
+
+JoHN H. KinG is working as a school social
+service worker in Greensboro, N. C., and
+heads the city school’s Outward Bound Pro-
+ject.
+
+RoBerT R. WEED is legislative assistant to
+Rep. Robert W. Daniel. He was campaign
+director for Daniel, a Republican, who was
+elected last fall to Congress from Virginia’s
+Fourth Congressional District.
+
+FRANK C. BROOKS, JR., is with Chase Man-
+hattan Bank of New York and currently as-
+signed to their regional office for Southeast
+Asia in Hong Kong. He reported to Hong
+Kong in November, 1972, and is doing credit
+analysis of many different types of com-
+panies.
+
+WALTER G. PETTEY, III, has been serving as
+an intelligence officer, Viet Cong Infrastruc-
+
+30
+
+ture Strategic Research and Analysis Branch,
+with the Army in Vietnam.
+
+TimotHy H. Dyer, a management trainee
+with New Bedford, Mass., Five Cent Savings
+Bank, also finds time to coach in the Little
+League hockey program.
+
+1972
+
+MARRIED: Terry W. Ty ter to Karen
+Jones on March 3, 1972, in Jackson, Tenn.
+Tyler is working in the trust division of
+the First National Bank of Memphis.
+
+MARRIED: JAMEes W. M. Carson to Con-
+stance Elizabeth Hopper on June 3, 1972.
+Jim is pursuing a masters degree in busi-
+ness administration at Emory University.
+
+MARRIED: E. GeEorGE STOOK to Bonnie
+Bronwen Moe in June, 1972, in Switzerland.
+Stook is on active duty with the U. S. Army
+and now stationed at Ft. Riley, Kan.
+
+Bruce W. Cusson is presently employed by
+Filene’s Department Store. He is in their
+executive training program and is currently
+in their Warwick, R. I., store.
+
+P. HALE MAST, JR., is presently employed by
+the U. S. Treasury, Comptroller of the Cur-
+rency. He works out of Charlotte, N. C.,
+Fifth Federal Reserve Region, as a national
+bank examiner.
+
+Max BRANTLEY is currently a reporter with
+the Arkansas Gazette in Little Rock.
+
+Lex O. MCMILLAN, III is presently working
+on his master’s degree in sociology at Emory
+and expects to pursue a doctorate.
+
+ROBERT P. BEAKLEY is practicing law in
+Ocean City, N. J.
+
+After the bar exam and a summer on Capi-
+tol Hill, Witt1amM THomas ANDERSON is now
+with the Marine Corps at Quantico.
+
+ 
+
+In Memoriam
+
+ 
+
+1907
+
+THE Rev. DONALD W. M. MACCLUER, pastor
+emeritus of Rose City Park United Presby-
+terian Church in Portland, Ore., died Nov.
+15, 1972. In 1910, Mr. MacCluer was the
+missionary in charge of the Christian school
+in Chiengrai, Thailand, and later was the
+
+ 
+
+chaplain at the Fort Leavenworth, Kan., fed-
+eral penitentiary. In 1919, he was an organi-
+zer of the Youth World Organization in St.
+Louis, Mo. He was pastor at Rose City Pres-
+byterian from 1920 until his retirement in
+
+1952.
+1915
+
+WILLIAM A. KELEHER, an Albuquerque attor-
+ney and distinguished New Mexico historian,
+died Dec. 18, 1972. During his 84 years in
+Albuquerque, he rose from a Western Union
+messenger boy to senior partner of one of
+New Mexico’s largest law firms and an in-
+ternationally known historian. He was also a
+newspaperman, city attorney, member of
+various state boards, and a leader in Demo-
+cratic party circles. He was a prominent lay
+member of the Roman Catholic Church.
+Known for the careful legal attention given
+to all of his clients, Mr. Keleher was one of
+Albuquerque’s leading promoters and deve-
+lopers. Mr. Keleher wrote the New Mexico
+School Tax Act, the sales tax law which is
+still the basic support for New Mexico’s
+public schools. For 25 years, he devoted much
+of his time to New Mexico historical re-
+search and writings. Among his publications
+are Maxwell Land Grant, The Fabulous
+Frontier, and Turmoil in New Mexico. His
+last book, Memoirs, 1892-1969 provides a
+behind-the-scenes account of the growth of
+Albuquerque and Keleher’s part in it. He
+held honorary degrees from the University
+of New Mexico and the University of Albu-
+querque and was installed in the New Mexi-
+co Hall of Fame.
+
+1916
+
+HOWARD CORNELL Flicks, a chief deputy as-
+sessor and a member of the Board of the
+Department of Assessment of Nassau County,
+N.Y., died Dec..1, 1972. He had been with
+the department since 1924.
+
+1917
+
+J. THERON Woopwarp of Summerville, S.C.,
+died Oct. 28, 1972, after a long illness.
+
+1923
+
+GUILLAUME E, BERSON, JR., a retail dry goods
+merchant in Ft. Smith, Ark., died Feb. 13,
+
+1972.
+1925
+
+RICHARD BEARD, Alabama State Commissioner
+of Agriculture and Industries, died Nov. 10,
+1972. He was a past president of the Ala-
+
+WeL
+
+«~
+
+ 
+
+bama Cattlemen’s Assn. and a past president
+of the Birmingham Agriculture Club. He was
+also a member of the Alabama Soil and
+Water Conservation Supervisors and_ the
+Southern Assn. of the State Department of
+Agriculture and a former city councilman
+at Trussville, near which he owned a large
+farm. He was also an elder in the Trussville
+Presbyterian Church.
+
+1926
+
+WALK C. JONES, JR., chairman of the board
+of Walk Jones-Francis Mah, Inc., an archi-
+tectural firm in Memphis, Tenn., died in
+December, 1972. Mr. Jones was a member
+of Building Research Institute, the Ameri-
+can Hospital Assn., and the Advisory Com-
+mittee for the Board of Trustees of the
+Baptist Memorial Hospital.
+
+1930
+
+James H. ADAMSON, retired attorney and
+life-long resident of Terre Haute, Ind., died
+Nov. 7, 1972. Mr. Adamson was also a labor
+relations consultant and was a trustee of the
+Iron Workers District Workers Health and
+Welfare Fund. He was a member of the
+American Arbitration Assn. and the Federal
+Mediation and Conciliation Service.
+
+WILLIAM ASBURY WARD, JR., a lawyer, real
+estate man, and business executive of Mari-
+etta, Ga., died Oct. 22, 1972. Mr. Ward was a
+lieutenant colonel with the U. S. Army Air
+Corps during World War II. He was in
+charge of staging bombers for overseas de-
+livery and received the Legion of Merit. He
+was a member of the Piedmont Driving Club
+of Atlanta and spent much time in Miami,
+
+Fla.
+1932
+
+LAWRENCE EUGENE DeBocory, an attorney
+for the Republic National Bank of Dallas,
+died Nov. 19, 1972. Mr. DeBogory had been
+a practicing attorney for the Republic Na-
+tional Bank for seven years. He was a USS.
+Army veteran of World War II, a member
+of the Dallas and the American Bar Assn.
+
+Cary BURWELL Mayo, a Richmond resident
+and a former employee of W. L: Robinson
+
+Co. in Durham, N. C., died April 27, 1972
+after a long illness.
+
+DONALD SCHOOLEY HOSTETTER, an FBI agent
+for almost 30 years and a former chairman
+of the New York State Liquor Authority,
+died Nov. 17, 1972, in a hospital in Herber
+
+March, 1973
+
+Springs, Ark. Mr. Hostetter held assignments
+with the FBI in a number of cities and at
+one time was counselor for the FBI National
+Academy in Washington. He was in charge
+of FBI offices in Chicago, Boston, Pittsburgh,
+and Memphis. In 1963, Gov. Rockefeller ap-
+pointed Mr. Hostetter chairman of the New
+York Liquor Authority. He retired in 1970.
+He was an outstanding football player for
+
+Washington and Lee and later coached at
+
+the University while earning his law degree.
+He was admitted to the Virginia Bar in 1932
+and was appointed an FBI agent in Wash-
+
+ington in 1934.
+1935
+
+JOHN MARION DEAN, one of the largest plant-
+ers in the Mississippi Delta area died No-
+vember 2, 1972. Mr. Dean, who lived in
+
+Tribbett, Miss., was a member of the Board .
+
+of Deacons of the First Baptist Church of
+Leland and a member and past president
+of the Leland Rotary Club. He was presi-
+dent of the Leland Consolidated School Dis-
+trict, vice president and director of Delta
+Council, director of Farmers Grain Market
+
+and Terminal Co-op, and was chairman of
+the Washington County Agricultural Stabili-
+zation and Conservation Society for 15 years.
+
+1938
+
+HirAM WALL, a resident of Kingsport, Tenn.,
+died Aug. 7, 1972.
+
+1940
+
+Percy ASHTON SEATON, JR., former assistant
+sales manager in the appliance division for
+B. T. Crump Co. of Richmond, died Nov.
+19, 1972. He had been living for the last
+several years at Martha’s Vineyard, Mass.
+
+1970
+
+RALPH ScOTT TAGGART, JR., a native of New
+Orleans died Jan. 10, 1973, at the Ochsner
+Foundation Hospital following a long ill-
+ness. At the time of his death, he was at-
+tending Tulane University, working towards
+an M.B.A. He was bestowed an honorary
+M.B.A. by the President of Tulane.
+
+ 
+
+Christopher T. Chenery,
+trustee emeritus,
+1886-1973
+
+ 
+
+ 
+
+Christopher T. Chenery, retired utility execu-
+tive and horesman who was a Trustee of the Uni-
+versity for 20 years, died Jan. 3, 1973, in New
+Rochelle, N. Y., after a long illness. He was 86.
+
+Mr. Chenery, a 1909 graduate of W&L, was a
+member of the Board of Trustees from 1950 until
+his retirement in 1970, when he was named Trus-
+tee Emeritus. At that time, the Trustees adopted a
+resolution characterizing him as “a leader of integ-
+rity, wisdom, and foresight.’ His long service to
+Washington and Lee included co-chairmanship of
+the University’s 1958-60 development program
+which raised funds to construct a new science build-
+ing and to renovate Reid Hall to accommodate the
+journalism department and its related operations.
+
+He was chairman of the board of Southern Na-
+tural Gas Corp. and a founder and president of
+Federal Water & Gas Corp. He was also president
+or board chairman of seven smaller utility com-
+panies and a director of seven others.
+
+Mr. Chenery was famous as the owner of The
+Meadow, the stable in Doswell, Va., which produc-
+ed some of racing’s top money winners, including
+Riva Ridge, winner of last year’s Kentucky Derby,
+and Secretariate, named 1972 Horse of the Year.
+The foals of just one of his horses, Hildene, return-
+ed almost $2 million in winnings. Among his other
+better-known horses were Cicada, First Landing,
+and Hill Prince, the 1950 Horse of the Year.
+
+He attended Randolph-Macon College in Ash-
+land, where he grew up, but left school at 16 to
+earn money to continue his education at W&L. He
+majored in engineering and was elected to Phi Beta
+Kappa. After graduation, he worked for a time in
+the Pacific Northwest as an engineer, and in 1914
+joined a reconnaisance party that was surveying
+potential rights-of-way for the first railroad through
+Alaska. He was with the Army Engineer Corps dur-
+ing World War I and then went to New York City,
+eventually starting his own engineering firm. In
+
+1926, he was one of the founding partners of Fed-
+eral Water Service Corp., predecessor firm to Fed-
+eral Water & Gas and Southern Natural Gas.
+
+In 1936 he bought The Meadow, a 2,000-acre
+estate, and began racing and breeding. He was
+named to a commission in New York charged with
+rehabilitating the image of horse racing in that
+state and was vice president and treasurer of the
+New York Racing Association.
+
+He is survived by a son, Dr. Hollis B. Chenery
+of Washington, D. C., and two daughters, Mrs.
+Helen ‘I'weedy, manager of ‘The Meadow, and Mrs.
+Margaret Carmichael of ‘Tucson, Ariz.
+
+Mr. Chenery was buried in Ashland.
+
+ 
+
+ 
+
+ 
+
+32
+
+WeL
+
+3
+
+ 
+
+ 
+
+WASHINGTON AND LEE UNIVERSITY
+
+Lexington, Virginia 24450 W
+
+ 
+
+ 
+
+COMMEMORATIVE
+PLATES
+
+ 
+
+ 
+
+ 
+
+ 
+
