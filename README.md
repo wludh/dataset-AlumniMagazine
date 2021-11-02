@@ -40,11 +40,11 @@ Text files created using Tesseract 4.1.1
 
 ## Acknowledgements
 
-Mackenzie Brooks, Digital Humanities Librarian
-Paula S. Kiser, Digital Scholarship Librarian
-Cindy Morton, Digital Services Manager
-Annjoy Gichane '21
-Madison Williams '23
+* Mackenzie Brooks, Digital Humanities Librarian
+* Paula S. Kiser, Digital Scholarship Librarian
+* Cindy Morton, Digital Services Manager
+* Annjoy Gichane '21
+* Madison Williams '23
 
 ## Preferred Citation
 
